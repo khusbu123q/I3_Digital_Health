@@ -1,0 +1,8 @@
+phase_clean,n_resolved,n_positive,n_negative,n_censored,success_rate_%,ci_low_%,ci_high_%,vs_overall_pp,reliable
+Phase 1,187,139,48,79,74.3,67.6,80.1,1.3,✓
+Phase 1/2,80,54,26,46,67.5,56.6,76.8,-5.6,✓
+Phase 2,231,162,69,171,70.1,63.9,75.7,-2.9,✓
+Phase 2/3,9,7,2,8,77.8,,,4.7,⚠ n=9
+Phase 3,71,57,14,53,80.3,69.6,87.9,7.2,✓
+Phase 4,16,14,2,9,87.5,64.0,96.5,14.4,✓
+Unknown,26,20,6,14,76.9,57.9,89.0,3.9,✓

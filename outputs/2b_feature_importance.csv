@@ -1,0 +1,48 @@
+feature,abs_coef
+enrollment_n,1.0928656530504952
+indication_group_Lymphoma,0.8916967284556542
+tech_group_Small Molecule,0.7893149285006005
+tech_group_Monoclonal Antibody,0.5137803680490935
+tech_group_Protein Therapy,0.48271726908003076
+indication_group_Other,0.43761538221849827
+tech_group_Other,0.4371527917751259
+tech_group_Synthetic Peptide,0.35639763255322554
+indication_group_Solid Tumors (NOS),0.351067036008261
+tech_group_DNA Oligonucleotide Therapy,0.32398564473026703
+indication_group_Colorectal Cancer,0.30050447277771003
+tech_group_Live biotherapeutics,0.29594069497070064
+indication_group_Breast Cancer,0.27658369837023794
+tech_group_Cell Therapy,0.23595798539698548
+tech_group_Gene Transfer Therapy,0.23246974587480404
+tech_group_Toxin Fusion Protein (Immunotoxin),0.20987768880198854
+tech_group_Radiopharmaceutical Therapy,0.20618163067743983
+tech_group_Antibody Fragment Drug Conjugate,0.19708030336789248
+tech_group_Cytokine Fusion Protein (Immunocytokine),0.19388333143109113
+indication_group_Leukemia,0.18784403624818832
+tech_group_Tetraspecific Antibody,0.18684870731303083
+is_combination,0.18540438614442656
+tech_group_Small Interfering RNA (siRNA),0.1846232994984298
+tech_group_Mesenchymal Stem Cell Therapy (MSCs),0.18436209898374326
+tech_group_Hormone,0.18384859603234727
+tech_group_Oligonucleotide Therapy,0.17746569672602666
+tech_group_Radiopharmaceutical,0.1756040125367545
+tech_group_Vaccine Adjuvant,0.1738010397798743
+tech_group_Antibody Radiopharmaceutical,0.1697772069140381
+tech_group_Oncolytic Bacteria,0.16952958646114558
+tech_group_Chimeric Antigen Receptor Gamma Delta (γδ) T-Cell Therapy (CAR-γδT),0.16365087610660203
+tech_group_mRNA,0.15389759926846455
+phase_int,0.10481988915969438
+indication_group_NSCLC,0.097192627465533
+indication_group_Hematologic Malignancies,0.09376396847314553
+indication_group_Ovarian Cancer,0.08086765949694279
+tech_group_Antisense Oligonucleotide (ASO),0.07970978832305403
+indication_group_Head & Neck Cancer,0.07516343010901674
+indication_group_Pancreatic Cancer,0.0729912517671258
+tech_group_CAR-T,0.0725956684004893
+indication_group_Gastric Cancer,0.07114822861007529
+tech_group_Imaging Agent,0.06924372200173294
+tech_group_Bispecific Antibody,0.05989200532311642
+tech_group_Vaccine,0.03194115624234961
+indication_group_Multiple Myeloma,0.0197902922218116
+indication_group_Prostate Cancer,0.013732139347885705
+tech_group_DNA vaccine,0.013665769750818329

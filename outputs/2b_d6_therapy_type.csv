@@ -1,0 +1,3 @@
+therapy_type,n_resolved,n_positive,n_negative,n_censored,success_rate_%,ci_low_%,ci_high_%,vs_overall_pp,reliable
+Monotherapy,216,160,56,104,74.1,67.8,79.5,1.0,✓
+Combination,404,293,111,276,72.5,68.0,76.7,-0.5,✓

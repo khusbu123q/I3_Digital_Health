@@ -1,0 +1,6 @@
+drug_bucket,n_resolved,n_positive,n_negative,n_censored,success_rate_%,ci_low_%,ci_high_%,vs_overall_pp,reliable
+0 drugs,3,3,0,8,100.0,,,26.9,⚠ n=3
+1 drug,213,157,56,96,73.7,67.4,79.2,0.6,✓
+2 drugs,182,130,52,98,71.4,64.5,77.5,-1.6,✓
+3 drugs,102,73,29,70,71.6,62.2,79.4,-1.5,✓
+>3 drugs,120,90,30,108,75.0,66.6,81.9,1.9,✓

@@ -1,0 +1,2717 @@
+nct_id,drug_name,is_combination,n_drugs_in_trial
+NCT06669572,Pembrolizumab,True,2
+NCT06669572,Lenvatinib,True,2
+NCT06883552,Tislelizumab,False,1
+NCT06366490,Innocell,False,1
+NCT06835387,Irinotecan Sucrosofate,True,6
+NCT06835387,Dexamethasone,True,6
+NCT06835387,5-HT3 Receptor Antagonist,True,6
+NCT06835387,Oxaliplatin,True,6
+NCT06835387,Fluorouracil,True,6
+NCT06835387,Folinic acid,True,6
+NCT06896188,Retifanlimab,True,6
+NCT06896188,Oxaliplatin,True,6
+NCT06896188,Folinic acid,True,6
+NCT06896188,Irinotecan,True,6
+NCT06896188,Fluorouracil,True,6
+NCT06896188,Elraglusib,True,6
+NCT06822972,Selinexor,False,1
+NCT06906562,Pemigatinib,True,3
+NCT06906562,Computed Tomography Colonography,True,3
+NCT06906562,Magnetic Resonance Imaging,True,3
+NCT06328036,Atezolizumab,True,5
+NCT06328036,Biospecimen Collection,True,5
+NCT06328036,Magnetic Resonance Imaging,True,5
+NCT06328036,Surgical Procedure,True,5
+NCT06328036,Tiragolumab,True,5
+NCT06066138,Atezolizumab,False,1
+NCT06908031,Radiation Therapy,True,6
+NCT06908031,Iparomlimab,True,6
+NCT06908031,mFOLFOX6,True,6
+NCT06908031,Cetuximab,True,6
+NCT06908031,Bevacizumab,True,6
+NCT06908031,Resection,True,6
+NCT06912152,Fludarabine,True,3
+NCT06912152,Cyclophosphamide,True,3
+NCT06912152,MT-027,True,3
+NCT05903833,Pembrolizumab,True,2
+NCT05903833,Lenvatinib,True,2
+NCT06364267,Tamoxifen,True,2
+NCT06364267,Exemestane,True,2
+NCT06508931,Zamtocabtagene autoleucel,False,1
+NCT06517017,Isatuximab,True,3
+NCT06517017,Dexamethasone,True,3
+NCT06517017,Lenalidomide,True,3
+NCT06887803,Roginolisib,True,2
+NCT06887803,Ruxolitinib,True,2
+NCT06882746,BI 765049,False,1
+NCT06682637,Melphalan flufenamide,True,2
+NCT06682637,Dexamethasone,True,2
+NCT06914128,PH020,False,1
+NCT06728072,Metronidazole,True,3
+NCT06728072,Ciprofloxacin,True,3
+NCT06728072,Aspirin,True,3
+NCT06834672,IBI 354,True,4
+NCT06834672,Paclitaxel,True,4
+NCT06834672,Gemcitabine,True,4
+NCT06834672,Pegylated liposomal doxorubicin,True,4
+NCT06856200,Sirolimus,True,3
+NCT06856200,Palbociclib,True,3
+NCT06856200,Fulvestrant,True,3
+NCT06560879,Lactobacillus rhamnosus,True,3
+NCT06560879,Bifidobacterium bifidum,True,3
+NCT06560879,Placebo Control,True,3
+NCT06801730,irinotecan liposomal,True,2
+NCT06801730,Bevacizumab,True,2
+NCT06851247,Toripalimab,True,5
+NCT06851247,Catequentinib,True,5
+NCT06851247,Gemcitabine,True,5
+NCT06851247,Cisplatin,True,5
+NCT06851247,Intensity-Modulated Radiation Therapy,True,5
+NCT06352866,Siltuximab,True,2
+NCT06352866,Teclistamab,True,2
+NCT06744894,Selinexor,True,3
+NCT06744894,Ixazomib,True,3
+NCT06744894,Lenalidomide,True,3
+NCT06772428,Megestrol acetate,True,3
+NCT06772428,Radiation Therapy,True,3
+NCT06772428,Chemotherapy,True,3
+NCT06720324,Fludarabine,True,3
+NCT06720324,Cyclophosphamide,True,3
+NCT06720324,Anti-CD7 CAR T-cells,True,3
+NCT06735131,Toripalimab,True,6
+NCT06735131,Radiation Therapy,True,6
+NCT06735131,Chemotherapy,True,6
+NCT06735131,Nab-paclitaxel,True,6
+NCT06735131,Gemcitabine,True,6
+NCT06735131,Carboplatin,True,6
+NCT06730932,Tifcemalimab,True,2
+NCT06730932,Toripalimab,True,2
+NCT06667908,Hafnium oxide,True,5
+NCT06667908,Durvalumab,True,5
+NCT06667908,Intensity-Modulated Radiation Therapy,True,5
+NCT06667908,Carboplatin,True,5
+NCT06667908,Paclitaxel,True,5
+NCT06700395,TQB2029,False,1
+NCT06749886,Denosumab,True,3
+NCT06749886,Tislelizumab,True,3
+NCT06749886,Docetaxel,True,3
+NCT06171685,Teclistamab,True,2
+NCT06171685,Investigational New Drug,True,2
+NCT06682611,SYHA-1813,True,9
+NCT06682611,SG 001,True,9
+NCT06682611,HB 1801,True,9
+NCT06682611,Carboplatin,True,9
+NCT06682611,Cisplatin,True,9
+NCT06682611,Paclitaxel,True,9
+NCT06682611,Etoposide,True,9
+NCT06682611,Everolimus,True,9
+NCT06682611,Regorafenib,True,9
+NCT06647563,Toripalimab,True,6
+NCT06647563,Cetuximab,True,6
+NCT06647563,Nab-paclitaxel,True,6
+NCT06647563,Carboplatin,True,6
+NCT06647563,Cisplatin,True,6
+NCT06647563,Radiation Therapy,True,6
+NCT06673693,Tislelizumab,True,2
+NCT06673693,Stereotactic Body Radiation Therapy,True,2
+NCT06217536,Lurbinectedin,True,3
+NCT06217536,Radiation Therapy,True,3
+NCT06217536,Surgery,True,3
+NCT06613152,HS-IT201,False,1
+NCT06490536,Oxaliplatin,True,11
+NCT06490536,Capecitabine,True,11
+NCT06490536,Folinic acid,True,11
+NCT06490536,Fluorouracil,True,11
+NCT06490536,Temozolomide,True,11
+NCT06490536,Irinotecan,True,11
+NCT06490536,Nivolumab,True,11
+NCT06490536,Ipilimumab,True,11
+NCT06490536,Trastuzumab,True,11
+NCT06490536,Pertuzumab,True,11
+NCT06490536,Panitumumab,True,11
+NCT06253637,Daratumumab,False,1
+NCT06578286,JNJ-0683,False,1
+NCT06519370,FDA018-ADC,True,5
+NCT06519370,Eribulin,True,5
+NCT06519370,Capecitabine,True,5
+NCT06519370,Gemcitabine,True,5
+NCT06519370,Vinorelbine,True,5
+NCT06261814,Sulfur Hexafluoride Lipid Microspheres,True,3
+NCT06261814,Contrast-Enhanced Ultrasound,True,3
+NCT06261814,Transarterial Chemoembolization,True,3
+NCT06416410,Glecirasib,True,5
+NCT06416410,Tislelizumab,True,5
+NCT06416410,JAB 3312,True,5
+NCT06416410,Pemetrexed,True,5
+NCT06416410,Carboplatin,True,5
+NCT06549595,AZD0486,True,7
+NCT06549595,Rituximab,True,7
+NCT06549595,Cyclophosphamide,True,7
+NCT06549595,Doxorubicin,True,7
+NCT06549595,Vincristine,True,7
+NCT06549595,Prednisone,True,7
+NCT06549595,Bendamustine,True,7
+NCT06509568,Nab-paclitaxel,True,7
+NCT06509568,Carboplatin,True,7
+NCT06509568,Toripalimab,True,7
+NCT06509568,Esophagectomy,True,7
+NCT06509568,Intensity-Modulated Radiation Therapy,True,7
+NCT06509568,Volume Modulated Arc Therapy,True,7
+NCT06509568,Immunotherapy,True,7
+NCT06080165,Sirolimus,True,2
+NCT06080165,Placebo Control,True,2
+NCT06525948,Recombinant Human Thrombopoietin,True,2
+NCT06525948,Cyclosporin,True,2
+NCT06444412,Computed Tomography,True,3
+NCT06444412,Gallium Ga-68 gozetotide,True,3
+NCT06444412,Positron Emission Tomography,True,3
+NCT06562920,Adebrelimab,True,4
+NCT06562920,Chemotherapy,True,4
+NCT06562920,Stereotactic Body Radiation Therapy,True,4
+NCT06562920,Surgical Procedure,True,4
+NCT06260033,Biospecimen Collection,True,7
+NCT06260033,Bone Scan,True,7
+NCT06260033,Computed Tomography,True,7
+NCT06260033,18F-fluoroestradiol,True,7
+NCT06260033,Positron Emission Tomography,True,7
+NCT06260033,Questionnaire Administration,True,7
+NCT06260033,Stereotactic Body Radiation Therapy,True,7
+NCT05901194,Lenvatinib,False,1
+NCT06734182,Envafolimab,True,3
+NCT06734182,Disitamab vedotin,True,3
+NCT06734182,Carboplatin,True,3
+NCT06422156,Stereotactic Body Radiation Therapy,True,5
+NCT06422156,Nimotuzumab,True,5
+NCT06422156,Gemcitabine,True,5
+NCT06422156,Gimeracil/oteracil/tegafur,True,5
+NCT06422156,Capecitabine,True,5
+NCT06881537,Capecitabine,True,4
+NCT06881537,Oxaliplatin,True,4
+NCT06881537,Bevacizumab,True,4
+NCT06881537,Tislelizumab,True,4
+NCT06332430,Immunogenic Cell Death Inducer CAN2109,False,1
+NCT06402383,Human papillomavirus vaccine,False,1
+NCT06408194,Anti-CD22 CAR T Cells Preparation,True,3
+NCT06408194,Tisagenlecleucel,True,3
+NCT06408194,Lymphodepletion Therapy,True,3
+NCT06428682,Tranexamic Acid,True,2
+NCT06428682,Placebo Control,True,2
+NCT06300320,Rovadicitinib,False,1
+NCT06255379,Fruquintinib,True,2
+NCT06255379,Gimeracil/oteracil/tegafur,True,2
+NCT06358638,Daratumumab,True,4
+NCT06358638,Alemtuzumab,True,4
+NCT06358638,Sirolimus,True,4
+NCT06358638,Total-Body Irradiation,True,4
+NCT06494514,Eculizumab,True,8
+NCT06494514,Oxaliplatin,True,8
+NCT06494514,Fluorouracil,True,8
+NCT06494514,FU-LV Regimen,True,8
+NCT06494514,PDCD1 wt Allele,True,8
+NCT06494514,Stereotactic Body Radiation Therapy,True,8
+NCT06494514,Gemcitabine,True,8
+NCT06494514,Nab-paclitaxel,True,8
+NCT06271551,Transdermal Estrogen,True,2
+NCT06271551,Resistance Training,True,2
+NCT06297226,Arlocabtagene autoleucel,False,1
+NCT06432296,M 701,True,2
+NCT06432296,Paracentesis,True,2
+NCT06099366,Vincristine,True,11
+NCT06099366,Asparaginase,True,11
+NCT06099366,Dexamethasone,True,11
+NCT06099366,Cytarabine Intrathecal Regimen,True,11
+NCT06099366,Intrathecal Methotrexate/Methotrexate/Pegaspargase/Vincristine Regimen,True,11
+NCT06099366,Mercaptopurine,True,11
+NCT06099366,Methotrexate Intrathecal Regimen,True,11
+NCT06099366,Cyclophosphamide,True,11
+NCT06099366,Cytarabine,True,11
+NCT06099366,Methotrexate,True,11
+NCT06099366,Doxorubicin,True,11
+NCT05679921,Pembrolizumab,True,2
+NCT05679921,Pazopanib,True,2
+NCT05735028,Centipeda minima Decoction,True,2
+NCT05735028,PD-1/PD-L1 inhibitor,True,2
+NCT06329999,Mitoxantrone liposomal,True,5
+NCT06329999,Cytarabine,True,5
+NCT06329999,Filgrastim,True,5
+NCT06329999,Vincristine,True,5
+NCT06329999,Hematopoietic Cell Transplantation,True,5
+NCT06208462,Adebrelimab,True,4
+NCT06208462,Lenvatinib,True,4
+NCT06208462,Gemcitabine,True,4
+NCT06208462,Oxaliplatin,True,4
+NCT05967182,Pembrolizumab,True,3
+NCT05967182,Gemcitabine,True,3
+NCT05967182,Cisplatin,True,3
+NCT06440811,SOX,True,3
+NCT06440811,PD-1 Inhibitor,True,3
+NCT06440811,FLOT,True,3
+NCT05567770,Actinium Ac 225 Rosopatamab Tetraxetan,True,2
+NCT05567770,Stereotactic Body Radiation Therapy,True,2
+NCT06077760,V 940,True,3
+NCT06077760,Pembrolizumab,True,3
+NCT06077760,Placebo Control,True,3
+NCT06132438,PEP-CMV Vaccine,False,1
+NCT05995041,CLL-1/CD33/CD38/CD123-specific universal CAR- T cells (Shenzhen Geno-Immune Medical Institute),False,1
+NCT06017323,Gemcitabine,True,3
+NCT06017323,Nab-paclitaxel,True,3
+NCT06017323,Proglumide,True,3
+NCT06109207,Camrelizumab,True,2
+NCT06109207,Dalpiciclib,True,2
+NCT06081595,Fuzuloparib,True,2
+NCT06081595,Rivoceranib,True,2
+NCT06109064,Venetoclax,True,3
+NCT06109064,Decitabine,True,3
+NCT06109064,Azacitidine,True,3
+NCT06008119,Tunlametinib,True,4
+NCT06008119,Vemurafenib,True,4
+NCT06008119,Bevacizumab,True,4
+NCT06008119,Cetuximab,True,4
+NCT06321887,Ferrous fumarate,False,1
+NCT05863195,Bevacizumab,True,12
+NCT05863195,Cetuximab,True,12
+NCT05863195,Computed Tomography,True,12
+NCT05863195,Floxuridine,True,12
+NCT05863195,Fluorouracil,True,12
+NCT05863195,Ganciclovir,True,12
+NCT05863195,Intrahepatic Infusion Procedure,True,12
+NCT05863195,Irinotecan,True,12
+NCT05863195,Folinic acid,True,12
+NCT05863195,Oxaliplatin,True,12
+NCT05863195,Panitumumab,True,12
+NCT05863195,Single Photon Emission Computed Tomography,True,12
+NCT05318469,Ivermectin,True,2
+NCT05318469,Balstilimab,True,2
+NCT06080893,Ferric carboxymaltose,False,1
+NCT05888844,INCB 099280,False,1
+NCT06092957,Cisplatin,True,5
+NCT06092957,Camrelizumab,True,5
+NCT06092957,Toripalimab,True,5
+NCT06092957,Adebrelimab,True,5
+NCT06092957,Intensity-Modulated Radiation Therapy,True,5
+NCT06045689,Luspatercept,False,1
+NCT05786573,Obexelimab,False,1
+NCT06057168,Gadopiclenol,True,2
+NCT06057168,Gadoterate-meglumine,True,2
+NCT06015568,MCLA-129,True,2
+NCT06015568,Befotertinib,True,2
+NCT06020833,Roxadustat,True,2
+NCT06020833,Tretinoin,True,2
+NCT06809426,[177Lu]-LNC1011,False,1
+NCT03529448,Dronabinol,True,3
+NCT03529448,Temozolomide,True,3
+NCT03529448,Radiation Therapy,True,3
+NCT05907304,Naporafenib,True,2
+NCT05907304,Trametinib,True,2
+NCT05918250,MRNA 2736,False,1
+NCT05453396,Loncastuximab tesirine,False,1
+NCT05553041,18F-Fluciclovine,True,3
+NCT05553041,Positron Emission Tomography and Magnetic Resonance Imaging,True,3
+NCT05553041,Magnetic Resonance Imaging,True,3
+NCT06041425,Oxycodone,True,3
+NCT06041425,Transarterial Chemoembolization,True,3
+NCT06041425,Sufentanil,True,3
+NCT05770531,Biospecimen Collection,True,4
+NCT05770531,Computed Tomography,True,4
+NCT05770531,Magnetic Resonance Imaging,True,4
+NCT05770531,Sacituzumab govitecan,True,4
+NCT06007846,memantine hydrochloride,False,1
+NCT05954312,VVD-130037,False,1
+NCT05777278,Savolitinib,True,2
+NCT05777278,Docetaxel,True,2
+NCT05850234,GC 012F,False,1
+NCT05687110,Biopsy,True,4
+NCT05687110,Biospecimen Collection,True,4
+NCT05687110,Diagnostic Imaging,True,4
+NCT05687110,novobiocin sodium,True,4
+NCT05961696,Mosunetuzumab,False,1
+NCT05751265,Tislelizumab,True,3
+NCT05751265,Fluorouracil,True,3
+NCT05751265,Paclitaxel,True,3
+NCT05443425,Colestyramine,True,3
+NCT05443425,Leflunomide,True,3
+NCT05443425,Steroid Therapy,True,3
+NCT05812807,Pembrolizumab,True,5
+NCT05812807,Patient Observation,True,5
+NCT05812807,Biopsy,True,5
+NCT05812807,Biospecimen Collection,True,5
+NCT05812807,Questionnaire Administration,True,5
+NCT05926960,Encorafenib,True,5
+NCT05926960,Binimetinib,True,5
+NCT05926960,Pembrolizumab,True,5
+NCT05926960,Ipilimumab,True,5
+NCT05926960,Nivolumab,True,5
+NCT05443464,OSSM 001,False,1
+NCT05894837,Serplulimab,True,3
+NCT05894837,Regorafenib,True,3
+NCT05894837,Intrahepatic Infusion Procedure,True,3
+NCT05400902,Oxaliplatin,True,5
+NCT05400902,Folinic acid,True,5
+NCT05400902,Fluorouracil,True,5
+NCT05400902,Sintilimab,True,5
+NCT05400902,Bevacizumab,True,5
+NCT05885464,BEAM 201,False,1
+NCT05976997,Duvelisib,True,2
+NCT05976997,Chidamide,True,2
+NCT05716516,Estradiol,False,1
+NCT05139056,Neural Stem Cells-expressing CRAd-S-pk7,True,2
+NCT05139056,Resection,True,2
+NCT05848999,UCLM-802,False,1
+NCT05843448,IO102 IO103,True,2
+NCT05843448,Pembrolizumab,True,2
+NCT05701709,SHR A2102,False,1
+NCT05371054,Venetoclax,True,3
+NCT05371054,Enitociclib,True,3
+NCT05371054,Prednisone,True,3
+NCT05754801,Coriolus Versicolor Extract,True,2
+NCT05754801,Placebo Control,True,2
+NCT05744921,Pozelimab,True,2
+NCT05744921,Cemdisiran,True,2
+NCT05661591,SHR-2554,True,2
+NCT05661591,Fluconazole,True,2
+NCT05715398,BR 790,True,2
+NCT05715398,Catequentinib,True,2
+NCT05675813,Cyclophosphamide,True,9
+NCT05675813,Doxorubicin,True,9
+NCT05675813,Vincristine,True,9
+NCT05675813,Prednisone,True,9
+NCT05675813,Azacitidine,True,9
+NCT05675813,Selinexor,True,9
+NCT05675813,Duvelisib,True,9
+NCT05675813,Tislelizumab,True,9
+NCT05675813,Chidamide,True,9
+NCT05716113,RD 13,False,1
+NCT05784870,Traditional Chinese Medicine Formulation,True,2
+NCT05784870,Ferrous succinate,True,2
+NCT05722795,Imatinib,False,1
+NCT05870995,Cladribine,True,8
+NCT05870995,Cytarabine,True,8
+NCT05870995,Etoposide,True,8
+NCT05870995,Venetoclax,True,8
+NCT05870995,Fludarabine,True,8
+NCT05870995,Busulfan,True,8
+NCT05870995,Melphalan,True,8
+NCT05870995,Total Marrow Irradiation,True,8
+NCT05679258,Daratumumab,False,1
+NCT05603559,Lutetium Lu 177 Vipivotide Tetraxetan,True,2
+NCT05603559,Lutetium Lu-177 PNT2002,True,2
+NCT05608785,Fidasimtamab,True,6
+NCT05608785,Oxaliplatin,True,6
+NCT05608785,Capecitabine,True,6
+NCT05608785,Osemitamab,True,6
+NCT05608785,Benmelstobart,True,6
+NCT05608785,Catequentinib,True,6
+NCT05668767,Surufatinib,True,5
+NCT05668767,Durvalumab,True,5
+NCT05668767,Etoposide,True,5
+NCT05668767,Cisplatin,True,5
+NCT05668767,Carboplatin,True,5
+NCT05669807,Camrelizumab,True,3
+NCT05669807,Nab-paclitaxel,True,3
+NCT05669807,Irinotecan,True,3
+NCT05990998,Gallium 68-DOTATATE,True,3
+NCT05990998,68Ga-FAPI-46,True,3
+NCT05990998,Positron Emission Tomography and Computed Tomography Scan,True,3
+NCT06350838,BCG Regimen,False,1
+NCT05198843,Dasatinib,True,2
+NCT05198843,Icosapent Ethyl,True,2
+NCT05208762,PF-08046054,True,2
+NCT05208762,Pembrolizumab,True,2
+NCT05425862,Pidnarulex,True,2
+NCT05425862,Talazoparib,True,2
+NCT04892277,Autologous Anti-CD19 CAR-expressing T-lymphocytes IC19/1563,True,10
+NCT04892277,Bendamustine,True,10
+NCT04892277,Biospecimen Collection,True,10
+NCT04892277,Bone Marrow Aspiration,True,10
+NCT04892277,Bone Marrow Biopsy,True,10
+NCT04892277,Computed Tomography,True,10
+NCT04892277,Cyclophosphamide,True,10
+NCT04892277,Fludarabine,True,10
+NCT04892277,Magnetic Resonance Imaging,True,10
+NCT04892277,Positron Emission Tomography,True,10
+NCT05521412,[161 Tb]Tb PSMA I&T,False,1
+NCT05489731,TAS 119,True,2
+NCT05489731,osimertinib mesylate,True,2
+NCT05285358,Cisplatin,True,4
+NCT05285358,Gemcitabine,True,4
+NCT05285358,Nab-paclitaxel,True,4
+NCT05285358,Questionnaire Administration,True,4
+NCT05322135,BAY 949392,True,2
+NCT05322135,Carbon C 11 Glutamine,True,2
+NCT05496231,Human papillomavirus vaccine,True,2
+NCT05496231,"Human Papillomavirus 9-valent Vaccine, Recombinant",True,2
+NCT05779514,Mirabegron,False,1
+NCT05111574,Biospecimen Collection,True,8
+NCT05111574,cabozantinib s-malate,True,8
+NCT05111574,Computed Tomography,True,8
+NCT05111574,Echocardiography,True,8
+NCT05111574,Magnetic Resonance Imaging,True,8
+NCT05111574,Nivolumab,True,8
+NCT05111574,Placebo Administration,True,8
+NCT05111574,Positron Emission Tomography,True,8
+NCT05491512,18F-Fluoromisonidazole,True,6
+NCT05491512,Radiation Therapy,True,6
+NCT05491512,Cisplatin,True,6
+NCT05491512,Carboplatin,True,6
+NCT05491512,Fluorouracil,True,6
+NCT05491512,Paclitaxel,True,6
+NCT06469138,Bemcentinib,False,1
+NCT05463601,Mecapegfilgrastim,True,6
+NCT05463601,Dalpiciclib,True,6
+NCT05463601,Exemestane,True,6
+NCT05463601,Fulvestrant,True,6
+NCT05463601,Letrozole,True,6
+NCT05463601,Tamoxifen,True,6
+NCT05406466,Tislelizumab,True,3
+NCT05406466,Lenvatinib,True,3
+NCT05406466,Cryosurgery,True,3
+NCT05465343,Furmonertinib,False,1
+NCT05480865,BBP 398,True,2
+NCT05480865,Sotorasib,True,2
+NCT04978727,SVN53-67-M57-KLH peptide vaccine,True,4
+NCT04978727,Sargramostim,True,4
+NCT04978727,Incomplete Freund's adjuvant,True,4
+NCT04978727,Radiation Therapy,True,4
+NCT05186545,Surufatinib,True,3
+NCT05186545,Fulvestrant,True,3
+NCT05186545,Chidamide,True,3
+NCT05381038,Azacitidine,True,4
+NCT05381038,Docetaxel,True,4
+NCT05381038,Paclitaxel,True,4
+NCT05381038,Irinotecan,True,4
+NCT05429398,Linperlisib,True,2
+NCT05429398,Camrelizumab,True,2
+NCT05362409,Aminolevulinic acid,True,2
+NCT05362409,CV01-delivered ultrasound,True,2
+NCT04655391,bosutinib monohydrate,True,7
+NCT04655391,Decitabine,True,7
+NCT04655391,enasidenib mesylate,True,7
+NCT04655391,gilteritinib fumarate,True,7
+NCT04655391,glasdegib maleate,True,7
+NCT04655391,Ivosidenib,True,7
+NCT04655391,Venetoclax,True,7
+NCT05600309,Favezelimab,True,4
+NCT05600309,Pembrolizumab,True,4
+NCT05600309,Regorafenib,True,4
+NCT05600309,Tipiracil/trifluridine,True,4
+NCT05085054,osimertinib mesylate,True,2
+NCT05085054,Salvage Surgery,True,2
+NCT05389293,Mosunetuzumab,True,2
+NCT05389293,Zanubrutinib,True,2
+NCT05393804,Idecabtagene vicleucel,True,5
+NCT05393804,Ciltacabtagene autoleucel,True,5
+NCT05393804,Leukapheresis,True,5
+NCT05393804,Lymphodepletion Therapy,True,5
+NCT05393804,Chimeric Antigen Receptor T-Cell Therapy,True,5
+NCT05479812,WTX-124,True,2
+NCT05479812,Pembrolizumab,True,2
+NCT05055063,Belantamab mafodotin,False,1
+NCT05263999,Itolizumab,True,2
+NCT05263999,Placebo,True,2
+NCT05135715,Disitamab vedotin,False,1
+NCT05198934,Sotorasib,True,5
+NCT05198934,Panitumumab,True,5
+NCT05198934,Trifluridine,True,5
+NCT05198934,Tipiracil/trifluridine,True,5
+NCT05198934,Regorafenib,True,5
+NCT05397184,Chimeric Antigen Receptor T-Cell Therapy,False,1
+NCT05327582,Durvalumab,True,3
+NCT05327582,Lenvatinib,True,3
+NCT05327582,Nab-paclitaxel,True,3
+NCT05317325,Vaccine Therapy,True,2
+NCT05317325,Tumor antigen-pulsed DC vaccine - Sichuan University,True,2
+NCT04826016,Balixafortide,True,3
+NCT04826016,Eribulin,True,3
+NCT04826016,Nab-paclitaxel,True,3
+NCT05315700,ORIC 114,False,1
+NCT05024305,TWP-102,False,1
+NCT05081193,Testosterone undecanoate,True,2
+NCT05081193,Enzalutamide,True,2
+NCT05231850,Tislelizumab,False,1
+NCT05296772,Denenicokin,True,3
+NCT05296772,Exenokine-21,True,3
+NCT05296772,Pembrolizumab,True,3
+NCT05302921,Cryoablation,True,3
+NCT05302921,Nivolumab,True,3
+NCT05302921,Ipilimumab,True,3
+NCT05636566,Sevoflurane,True,3
+NCT05636566,Propofol,True,3
+NCT05636566,Dexmedetomidine,True,3
+NCT05204628,XZP-3621,True,2
+NCT05204628,Crizotinib,True,2
+NCT04119830,Pembrolizumab,True,3
+NCT04119830,Questionnaire Administration,True,3
+NCT04119830,Rintatolimod,True,3
+NCT04591028,Indocyanine green,False,1
+NCT05239182,Elraglusib,True,4
+NCT05239182,Retifanlimab,True,4
+NCT05239182,Gemcitabine,True,4
+NCT05239182,Nab-paclitaxel,True,4
+NCT04965077,MIL 97,False,1
+NCT05305859,Venetoclax,True,3
+NCT05305859,Chidamide,True,3
+NCT05305859,Azacitidine,True,3
+NCT05111366,Benmelstobart,True,2
+NCT05111366,catequentinib hydrochloride,True,2
+NCT04956276,Bis-choline Tetrathiomolybdate,True,2
+NCT04956276,Placebo Control,True,2
+NCT05796089,Thoracic Radiation Therapy,True,5
+NCT05796089,Etoposide,True,5
+NCT05796089,Carboplatin,True,5
+NCT05796089,Cisplatin,True,5
+NCT05796089,Durvalumab,True,5
+NCT05183958,Stereotactic Body Radiation Therapy,True,4
+NCT05183958,Normofractionated Radiotherapy,True,4
+NCT05183958,Camrelizumab,True,4
+NCT05183958,Chemotherapy,True,4
+NCT05067283,MK-1084,True,8
+NCT05067283,Pembrolizumab,True,8
+NCT05067283,Carboplatin,True,8
+NCT05067283,Pemetrexed,True,8
+NCT05067283,Cetuximab,True,8
+NCT05067283,Oxaliplatin,True,8
+NCT05067283,Folinic acid,True,8
+NCT05067283,Fluorouracil,True,8
+NCT05078671,Olaparib,True,2
+NCT05078671,Cobicistat,True,2
+NCT05170334,Binimetinib,True,2
+NCT05170334,Belinostat,True,2
+NCT04372927,Cisplatin,True,5
+NCT04372927,Durvalumab,True,5
+NCT04372927,Etoposide,True,5
+NCT04372927,Hypofractionated Radiation Therapy,True,5
+NCT04372927,Pemetrexed,True,5
+NCT05155189,C CAR 031,True,3
+NCT05155189,Lenvatinib,True,3
+NCT05155189,Anti-PD-L1 Monoclonal Antibody,True,3
+NCT04837196,ASP 7517,True,2
+NCT04837196,Pembrolizumab,True,2
+NCT05114720,Moxifloxacin,True,6
+NCT05114720,Docetaxel,True,6
+NCT05114720,Nab-paclitaxel,True,6
+NCT05114720,Cyclophosphamide,True,6
+NCT05114720,Doxorubicin,True,6
+NCT05114720,Placebo Control,True,6
+NCT05001347,Uliledlimab,False,1
+NCT04999540,Tucidinostat,True,2
+NCT04999540,Fulvestrant,True,2
+NCT05627778,Gallium Ga-68 gozetotide,True,2
+NCT05627778,68Ga-P15-041,True,2
+NCT04337177,Irinotecan,True,2
+NCT04337177,Temozolomide,True,2
+NCT04891809,Isatuximab,True,3
+NCT04891809,Lenalidomide,True,3
+NCT04891809,Dexamethasone,True,3
+NCT05061537,PF-07263689,True,2
+NCT05061537,Sasanlimab,True,2
+NCT05083481,ASP1570,True,2
+NCT05083481,Pembrolizumab,True,2
+NCT05008224,Pembrolizumab,True,10
+NCT05008224,Doxorubicin,True,10
+NCT05008224,Vinblastine,True,10
+NCT05008224,Dacarbazine,True,10
+NCT05008224,Bleomycin,True,10
+NCT05008224,Etoposide,True,10
+NCT05008224,Cyclophosphamide,True,10
+NCT05008224,Vincristine,True,10
+NCT05008224,Procarbazine,True,10
+NCT05008224,Prednisone,True,10
+NCT04933903,Ipilimumab,True,3
+NCT04933903,Nivolumab,True,3
+NCT04933903,Stereotactic Body Radiation Therapy,True,3
+NCT04982900,Furmonertinib,True,2
+NCT04982900,Placebo Control,True,2
+NCT04278651,Ferumoxytol,True,2
+NCT04278651,Ferrous sulfate,True,2
+NCT04985851,Durvalumab,True,2
+NCT04985851,Catequentinib,True,2
+NCT04003896,Abemaciclib,False,1
+NCT05017012,Subcutaneous Pembrolizumab,True,8
+NCT05017012,Pembrolizumab,True,8
+NCT05017012,Pemetrexed,True,8
+NCT05017012,Carboplatin,True,8
+NCT05017012,Paclitaxel,True,8
+NCT05017012,Nab-paclitaxel,True,8
+NCT05017012,Axitinib,True,8
+NCT05017012,Cisplatin,True,8
+NCT05039931,GNC 035,False,1
+NCT05002270,Glecirasib,True,2
+NCT05002270,Cetuximab,True,2
+NCT05103891,Binimetinib,False,1
+NCT05078138,Epoetin alfa,False,1
+NCT04826107,DP 303c,True,2
+NCT04826107,PD-1/PD-L1 inhibitor,True,2
+NCT04955886,Surufatinib,True,2
+NCT04955886,Toripalimab,True,2
+NCT04807166,Catequentinib,True,3
+NCT04807166,Paclitaxel,True,3
+NCT04807166,Carboplatin,True,3
+NCT04877613,Fludarabine,True,3
+NCT04877613,Cyclophosphamide,True,3
+NCT04877613,Autologous Anti-GFRa4 CAR-TCR-zeta-4-1BB-expressing T-cells,True,3
+NCT05075122,Pembrolizumab,True,3
+NCT05075122,UV1 Telomerase Peptide Vaccine,True,3
+NCT05075122,Sargramostim,True,3
+NCT04517227,Durvalumab,True,3
+NCT04517227,Transarterial Chemoembolization,True,3
+NCT04517227,Ablation Therapy,True,3
+NCT04924101,Pembrolizumab,True,7
+NCT04924101,MK-4830,True,7
+NCT04924101,Boserolimab,True,7
+NCT04924101,Lenvatinib,True,7
+NCT04924101,Etoposide,True,7
+NCT04924101,Cisplatin,True,7
+NCT04924101,Carboplatin,True,7
+NCT04898634,Pasritamig,False,1
+NCT04906395,leuprolide acetate,True,5
+NCT04906395,Tamoxifen,True,5
+NCT04906395,Letrozole,True,5
+NCT04906395,Anastrozole,True,5
+NCT04906395,Exemestane,True,5
+NCT04937972,Retlirafusp alfa,True,2
+NCT04937972,Fuzuloparib,True,2
+NCT04946890,MRX-2843,False,1
+NCT04961788,Toripalimab,True,3
+NCT04961788,Oxaliplatin,True,3
+NCT04961788,Gemcitabine,True,3
+NCT04846920,Belzutifan,False,1
+NCT04808570,TQ-B3525,False,1
+NCT04717531,Pyrotinib,True,6
+NCT04717531,Trastuzumab,True,6
+NCT04717531,Pertuzumab,True,6
+NCT04717531,Docetaxel,True,6
+NCT04717531,Epirubicin,True,6
+NCT04717531,Cyclophosphamide,True,6
+NCT04878692,Cream Dosage Form,False,1
+NCT04938297,Rituximab,True,3
+NCT04938297,Lenalidomide,True,3
+NCT04938297,Zanubrutinib,True,3
+NCT04902885,Trilaciclib,True,5
+NCT04902885,Carboplatin,True,5
+NCT04902885,Etoposide,True,5
+NCT04902885,Topotecan,True,5
+NCT04902885,Placebo Control,True,5
+NCT06669013,Dinutuximab beta,False,1
+NCT04690595,Autologous BAFFR-targeting CAR T Cells,False,1
+NCT05893654,Melphalan,True,2
+NCT05893654,Brachytherapy,True,2
+NCT04912765,Nivolumab,True,2
+NCT04912765,Neoantigen-loaded Autologous Dendritic Cell Vaccine,True,2
+NCT04511078,Panitumumab-IRDye800,False,1
+NCT04868747,Lidocaine,True,3
+NCT04868747,Gastrectomy,True,3
+NCT04868747,Sodium chloride,True,3
+NCT04954001,FCN 159,False,1
+NCT04649476,Camrelizumab,True,4
+NCT04649476,Docetaxel,True,4
+NCT04649476,Cisplatin,True,4
+NCT04649476,Fluorouracil,True,4
+NCT04965155,Isatuximab,True,2
+NCT04965155,Dexamethasone,True,2
+NCT04731467,CM 24,True,7
+NCT04731467,Nivolumab,True,7
+NCT04731467,Nab-paclitaxel,True,7
+NCT04731467,Gemcitabine,True,7
+NCT04731467,Eculizumab,True,7
+NCT04731467,Fluorouracil,True,7
+NCT04731467,Liposome Vesicle,True,7
+NCT04749394,Camrelizumab,True,2
+NCT04749394,Rivoceranib,True,2
+NCT04508309,Human papillomavirus 16/18 vaccine recombinant bivalent Xiamen Innovax,True,2
+NCT04508309,"Human Papillomavirus 9-valent Vaccine, Recombinant",True,2
+NCT04923529,Tipiracil/trifluridine,False,1
+NCT04721015,ABBV-637,True,3
+NCT04721015,Docetaxel,True,3
+NCT04721015,Osimertinib,True,3
+NCT05143112,Allogeneic Anti-CD19 T-cells ThisCART19A,False,1
+NCT04709731,Ponatinib,False,1
+NCT04688983,Ponatinib,True,3
+NCT04688983,Blinatumomab,True,3
+NCT04688983,Imatinib,True,3
+NCT04471974,ZEN 3694,True,3
+NCT04471974,Enzalutamide,True,3
+NCT04471974,Pembrolizumab,True,3
+NCT04640246,TBX-3400,True,2
+NCT04640246,Blood Transfusion,True,2
+NCT04942730,Fludarabine,True,6
+NCT04942730,bendamustine hydrochloride,True,6
+NCT04942730,Busulfan,True,6
+NCT04942730,Cyclophosphamide,True,6
+NCT04942730,Mycophenolate mofetil,True,6
+NCT04942730,Tacrolimus,True,6
+NCT04943757,bendamustine hydrochloride,True,2
+NCT04943757,Cyclophosphamides,True,2
+NCT04890392,Tislelizumab,True,4
+NCT04890392,Gimeracil/oteracil/tegafur,True,4
+NCT04890392,Oxaliplatin,True,4
+NCT04890392,Surgical Procedure,True,4
+NCT05906615,Lidocaine,False,1
+NCT04634071,Varenicline,True,4
+NCT04634071,Bupropion,True,4
+NCT04634071,Long-acting Nicotine Replacement Therapy,True,4
+NCT04634071,Counseling,True,4
+NCT04605185,Donafenib,True,2
+NCT04605185,Toripalimab,True,2
+NCT05549778,Polaprezinc,True,2
+NCT05549778,Abiraterone,True,2
+NCT04622566,Lenvatinib,True,3
+NCT04622566,Pembrolizumab,True,3
+NCT04622566,Surgical Procedure,True,3
+NCT04686383,CAL056 mesylate,False,1
+NCT04493060,Dostarlimab,True,2
+NCT04493060,Niraparib,True,2
+NCT04683354,Tunlametinib,False,1
+NCT04650451,Chimeric Antigen Receptor T-Cell Therapy,False,1
+NCT05304754,Interleukin-15,True,3
+NCT05304754,NK cells stimulated ex vivo with IL-15,True,3
+NCT05304754,Alloreactive NK cells - Instituto de InvestigaciÃ³n Hospital Universitario La Paz,True,3
+NCT04532281,Anti-CD19 CAR T Cells Preparation,False,1
+NCT04602689,Fibrinogen Human,True,4
+NCT04602689,Aprotinin,True,4
+NCT04602689,Thrombin,True,4
+NCT04602689,Calcium Chloride,True,4
+NCT04501094,Bintrafusp alfa,False,1
+NCT04225676,Tisagenlecleucel,False,1
+NCT04614636,FT538,True,5
+NCT04614636,Cyclophosphamide,True,5
+NCT04614636,Fludarabine,True,5
+NCT04614636,Daratumumab,True,5
+NCT04614636,Elotuzumab,True,5
+NCT04604132,Derazantinib,True,3
+NCT04604132,Paclitaxel,True,3
+NCT04604132,Ramucirumab,True,3
+NCT04592653,Nemvaleukin-alfa,True,2
+NCT04592653,Pembrolizumab,True,2
+NCT04552769,Abemaciclib,False,1
+NCT04566380,Nivolumab,True,6
+NCT04566380,Oxaliplatin,True,6
+NCT04566380,Gimeracil/oteracil/tegafur,True,6
+NCT04566380,Capecitabine,True,6
+NCT04566380,Bevacizumab,True,6
+NCT04566380,Temozolomide,True,6
+NCT04459663,Toripalimab,True,2
+NCT04459663,Axitinib,True,2
+NCT04512417,Camrelizumab,True,2
+NCT04512417,Radiation Therapy,True,2
+NCT04398108,Margetuximab,True,4
+NCT04398108,Capecitabine,True,4
+NCT04398108,Vinorelbine,True,4
+NCT04398108,Gemcitabine,True,4
+NCT04189107,Dexamethasone,True,2
+NCT04189107,Placebo Control,True,2
+NCT04344158,Penpulimab,True,3
+NCT04344158,catequentinib hydrochloride,True,3
+NCT04344158,sorafenib tosylate,True,3
+NCT04435197,Pembrolizumab,False,1
+NCT05513612,Autologous CAR-T Cells,True,3
+NCT05513612,Fludarabine,True,3
+NCT05513612,Cyclophosphamide,True,3
+NCT04493125,Mosapride,True,2
+NCT04493125,Placebo Control,True,2
+NCT04379739,Camrelizumab,False,1
+NCT04469075,clindamycin phosphate,True,2
+NCT04469075,triamcinolone acetonide,True,2
+NCT04433221,Multiple sarcoma-specific CAR-T cells - Shenzhen Geno-Immune Medical Institute,True,2
+NCT04433221,sarcoma vaccines - Shenzhen Geno-Immune Medical Institute,True,2
+NCT06540937,Leflunomide,False,1
+NCT04329949,Relacorilant,True,2
+NCT04329949,Nab-paclitaxel,True,2
+NCT04427774,Surufatinib,True,2
+NCT04427774,Sintilimab,True,2
+NCT04992988,Toripalimab,False,1
+NCT04314089,GT-103,False,1
+NCT04400383,AB 011,True,3
+NCT04400383,Moxifloxacin,True,3
+NCT04400383,Nab-paclitaxel,True,3
+NCT04383977,Rivoceranib,True,2
+NCT04383977,Etoposide,True,2
+NCT04334174,Brentuximab vedotin,False,1
+NCT04275713,Metformin,True,2
+NCT04275713,Cisplatin,True,2
+NCT04426669,Cyclophosphamide,True,5
+NCT04426669,Mesna,True,5
+NCT04426669,Fludarabine,True,5
+NCT04426669,Tumor Infiltrating Lymphocyte,True,5
+NCT04426669,Aldesleukin,True,5
+NCT04272957,HMPL-306,False,1
+NCT04186845,18F-rhPSMA 7.3 PET/CT Scan,False,1
+NCT04353102,YH 002,False,1
+NCT04279561,Computed Tomography,True,3
+NCT04279561,Gallium Ga-68 gozetotide,True,3
+NCT04279561,Positron Emission Tomography,True,3
+NCT04134884,Talazoparib,True,2
+NCT04134884,Cedazuridine/decitabine,True,2
+NCT04102020,Venetoclax,True,2
+NCT04102020,Azacitidine,True,2
+NCT03996473,Radium 223 chloride,True,2
+NCT03996473,Pembrolizumab,True,2
+NCT04319263,BCG vaccine,False,1
+NCT05999994,Ramucirumab,True,8
+NCT05999994,Cyclophosphamide,True,8
+NCT05999994,Vinorelbine,True,8
+NCT05999994,Gemcitabine,True,8
+NCT05999994,Docetaxel,True,8
+NCT05999994,Abemaciclib,True,8
+NCT05999994,Irinotecan,True,8
+NCT05999994,Temozolomide,True,8
+NCT04192253,Paclitaxel,True,2
+NCT04192253,Carboplatin,True,2
+NCT04187456,Savolitinib,True,2
+NCT04187456,Midazolam,True,2
+NCT04132050,fostamatinib disodium,True,2
+NCT04132050,Placebo Control,True,2
+NCT04193904,CJRB 102,True,2
+NCT04193904,Hypofractionated Radiation Therapy,True,2
+NCT04187352,Sugemalimab,True,4
+NCT04187352,Fluorouracil,True,4
+NCT04187352,Cisplatin,True,4
+NCT04187352,Placebo Control,True,4
+NCT04200417,Ethiodized oil,True,4
+NCT04200417,Mitomycin,True,4
+NCT04200417,Chemoembolization,True,4
+NCT04200417,Tris-acryl Gelatin Microspheres,True,4
+NCT03935893,Aldesleukin,True,4
+NCT03935893,Tumor Infiltrating Lymphocyte,True,4
+NCT03935893,Fludarabine,True,4
+NCT03935893,Cyclophosphamide,True,4
+NCT04133337,Rivoceranib,True,2
+NCT04133337,Camrelizumab,True,2
+NCT03984448,Biospecimen Collection,True,12
+NCT03984448,Bone Marrow Biopsy,True,12
+NCT03984448,Computed Tomography,True,12
+NCT03984448,Cyclophosphamide,True,12
+NCT03984448,doxorubicin hydrochloride,True,12
+NCT03984448,Etoposide,True,12
+NCT03984448,Lumbar Puncture,True,12
+NCT03984448,Positron Emission Tomography,True,12
+NCT03984448,Prednisone,True,12
+NCT03984448,Rituximab,True,12
+NCT03984448,Venetoclax,True,12
+NCT03984448,vincristine sulfate,True,12
+NCT04865289,Lenvatinib,True,4
+NCT04865289,Pembrolizumab,True,4
+NCT04865289,Paclitaxel,True,4
+NCT04865289,Carboplatin,True,4
+NCT04074187,Caplacizumab,True,5
+NCT04074187,Plasmapheresis,True,5
+NCT04074187,Methylprednisolone,True,5
+NCT04074187,Prednisolone,True,5
+NCT04074187,Rituximab,True,5
+NCT03994796,Abemaciclib,True,4
+NCT03994796,Paxalisib,True,4
+NCT03994796,Entrectinib,True,4
+NCT03994796,Adagrasib,True,4
+NCT03857841,Dulbecco's Phosphate-Buffered Saline,False,1
+NCT03792763,Denosumab,True,2
+NCT03792763,Placebo Control,True,2
+NCT04050462,Nivolumab,True,3
+NCT04050462,Cabiralizumab,True,3
+NCT04050462,HuMax IL8,True,3
+NCT04021368,RVU 120,False,1
+NCT04139772,Docetaxel,True,4
+NCT04139772,Prednisone,True,4
+NCT04139772,Abiraterone acetate,True,4
+NCT04139772,Enzalutamide,True,4
+NCT04043494,Cyclophosphamide,True,14
+NCT04043494,Cytarabine,True,14
+NCT04043494,Dexamethasone,True,14
+NCT04043494,Daunorubicin,True,14
+NCT04043494,Doxorubicin,True,14
+NCT04043494,Ifosfamide,True,14
+NCT04043494,Mercaptopurine,True,14
+NCT04043494,Methotrexate,True,14
+NCT04043494,Pegaspargase,True,14
+NCT04043494,Prednisone,True,14
+NCT04043494,Prednisolone,True,14
+NCT04043494,Tioguanine,True,14
+NCT04043494,Vincristine,True,14
+NCT04043494,Vindesine,True,14
+NCT04439890,catequentinib hydrochloride,True,4
+NCT04439890,Carboplatin,True,4
+NCT04439890,pemetrexed disodium,True,4
+NCT04439890,Placebo Control,True,4
+NCT05585645,Darbepoetin alfa,False,1
+NCT03892018,Oral Paclitaxel + Encequidar - Hanmi,False,1
+NCT03984097,Mezagitamab,True,5
+NCT03984097,Lenalidomide,True,5
+NCT03984097,Dexamethasone,True,5
+NCT03984097,Bortezomib,True,5
+NCT03984097,Pomalidomide,True,5
+NCT03977194,Carboplatin,True,3
+NCT03977194,Paclitaxel,True,3
+NCT03977194,Atezolizumab,True,3
+NCT03492671,Gemcitabine,True,3
+NCT03492671,Nab-paclitaxel,True,3
+NCT03492671,Stereotactic Body Radiation Therapy,True,3
+NCT04025593,Cyclophosphamide,True,9
+NCT04025593,Rituximab,True,9
+NCT04025593,Doxorubicin,True,9
+NCT04025593,Vincristine,True,9
+NCT04025593,Prednisone,True,9
+NCT04025593,Ibrutinib,True,9
+NCT04025593,Lenalidomide,True,9
+NCT04025593,Chidamide,True,9
+NCT04025593,Decitabine,True,9
+NCT03933735,Etentamig,False,1
+NCT04121507,Emtricitabine,True,5
+NCT04121507,Allogeneic Stem Cell Transplantation,True,5
+NCT04121507,Bone Marrow Biopsy,True,5
+NCT04121507,Calcium trisodium pentetate,True,5
+NCT04121507,TC,True,5
+NCT03983759,Sintilimab,False,1
+NCT04045847,Autologous Anti-CD147 CAR T-cells,False,1
+NCT03795597,Carfilzomib,True,3
+NCT03795597,Busulfan,True,3
+NCT03795597,Melphalan,True,3
+NCT03930953,Golcadomide,True,5
+NCT03930953,Rituximab,True,5
+NCT03930953,Obinutuzumab,True,5
+NCT03930953,Tafasitamab,True,5
+NCT03930953,Valemetostat,True,5
+NCT03910387,Gemcitabine,True,3
+NCT03910387,Nab-paclitaxel,True,3
+NCT03910387,telotristat ethyl,True,3
+NCT04356430,Abiraterone acetate,True,4
+NCT04356430,Laparoscopic Radical Prostatectomy with Robotics,True,4
+NCT04356430,Prednisone,True,4
+NCT04356430,Goserelin,True,4
+NCT03924986,Tislelizumab,True,4
+NCT03924986,Placebo Control,True,4
+NCT03924986,Gemcitabine,True,4
+NCT03924986,Cisplatin,True,4
+NCT03818061,Atezolizumab,True,2
+NCT03818061,Bevacizumab,True,2
+NCT03802058,Nab-paclitaxel,True,3
+NCT03802058,Carboplatin,True,3
+NCT03802058,Thoracic Radiation Therapy,True,3
+NCT03764137,Panitumumab,False,1
+NCT03825744,eltrombopag olamine,True,3
+NCT03825744,Placebo Control,True,3
+NCT03825744,Best Practice,True,3
+NCT03754933,Purine nucleoside phosphorylase,True,2
+NCT03754933,fludarabine phosphate,True,2
+NCT03967938,Olaparib,False,1
+NCT03671811,Megestrol acetate,True,2
+NCT03671811,Pterostilbene,True,2
+NCT03486197,Laboratory Biomarker Analysis,True,3
+NCT03486197,Pembrolizumab,True,3
+NCT03486197,Radiation Therapy,True,3
+NCT03724968,Nivolumab,True,3
+NCT03724968,Relatlimab,True,3
+NCT03724968,Ipilimumab,True,3
+NCT03851237,Copper Cu 64-DOTA-ECL1i,True,2
+NCT03851237,Calcium trisodium pentetate,True,2
+NCT05728632,Nebivolol,True,2
+NCT05728632,Placebo Control,True,2
+NCT03616886,Paclitaxel,True,4
+NCT03616886,Carboplatin,True,4
+NCT03616886,Durvalumab,True,4
+NCT03616886,Oleclumab,True,4
+NCT03819465,Durvalumab,True,10
+NCT03819465,Danvatirsen,True,10
+NCT03819465,Oleclumab,True,10
+NCT03819465,Volrustomig,True,10
+NCT03819465,Pemetrexed,True,10
+NCT03819465,Carboplatin,True,10
+NCT03819465,Gemcitabine,True,10
+NCT03819465,Cisplatin,True,10
+NCT03819465,Nab-paclitaxel,True,10
+NCT03819465,Rilvegostomig,True,10
+NCT03755141,Trastuzumab,False,1
+NCT03298945,Bowel Preparation,True,2
+NCT03298945,Macrogol 3350-Based Iso-Osmotic Laxative,True,2
+NCT03596281,Pembrolizumab,True,3
+NCT03596281,Bevacizumab,True,3
+NCT03596281,Pegylated liposomal doxorubicin,True,3
+NCT03579446,Hydrocodone Measurement,True,7
+NCT03579446,Hydromorphone,True,7
+NCT03579446,Levorphanol Measurement,True,7
+NCT03579446,Morphine,True,7
+NCT03579446,Oxycodone,True,7
+NCT03579446,Oxymorphone,True,7
+NCT03579446,Questionnaire Administration,True,7
+NCT03663166,Thoracic Radiation Therapy,True,8
+NCT03663166,Cisplatin,True,8
+NCT03663166,Etoposide,True,8
+NCT03663166,Carboplatin,True,8
+NCT03663166,Paclitaxel,True,8
+NCT03663166,Pemetrexed,True,8
+NCT03663166,Ipilimumab,True,8
+NCT03663166,Nivolumab,True,8
+NCT03513484,Azacitidine,True,3
+NCT03513484,Laboratory Biomarker Analysis,True,3
+NCT03513484,Nintedanib,True,3
+NCT03664687,Zoledronic acid,False,1
+NCT03706547,Anti-CD19/BCMA bispecific CAR-T cell therapy - Hrain Biotechnology,True,3
+NCT03706547,Fludarabine,True,3
+NCT03706547,Cyclophosphamide,True,3
+NCT03714490,Hydrocortisone,True,5
+NCT03714490,Capecitabine,True,5
+NCT03714490,Chemoradiotherapy,True,5
+NCT03714490,Oxaliplatin,True,5
+NCT03714490,Surgical Procedure,True,5
+NCT03646461,Ibrutinib,True,3
+NCT03646461,Cetuximab,True,3
+NCT03646461,Nivolumab,True,3
+NCT03708328,RG7769,False,1
+NCT03689699,Nivolumab,True,3
+NCT03689699,Degarelix,True,3
+NCT03689699,HuMax IL8,True,3
+NCT03715517,Lidocaine,True,6
+NCT03715517,Thoracic Epidural Analgesia,True,6
+NCT03715517,Morphine,True,6
+NCT03715517,Spinal Block,True,6
+NCT03715517,Bupivacaine,True,6
+NCT03715517,Hydromorphone,True,6
+NCT03011671,Acetazolamide,True,2
+NCT03011671,Temozolomide,True,2
+NCT03707093,ADG 106,False,1
+NCT03090880,Tinzaparin sodium,False,1
+NCT03457142,Abatacept,True,4
+NCT03457142,Dexamethasone,True,4
+NCT03457142,Ixazomib citrate,True,4
+NCT03457142,Laboratory Biomarker Analysis,True,4
+NCT03587038,disufenton sodium,True,3
+NCT03587038,Temozolomide,True,3
+NCT03587038,Photon Beam Radiation Therapy,True,3
+NCT03664895,leuprolide acetate,True,2
+NCT03664895,goserelin acetate,True,2
+NCT03600467,Seviteronel,True,2
+NCT03600467,Dexamethasone,True,2
+NCT03580928,Venetoclax,True,3
+NCT03580928,Obinutuzumab,True,3
+NCT03580928,Acalabrutinib,True,3
+NCT03617003,Padeliporfin,True,2
+NCT03617003,Endoscopic Procedure,True,2
+NCT03265717,HTERT DNA vaccine Invectys,False,1
+NCT03600129,Quadratus Lumborum Block,True,3
+NCT03600129,Ropivacaine,True,3
+NCT03600129,Sodium chloride,True,3
+NCT03363867,Atezolizumab,True,3
+NCT03363867,Bevacizumab,True,3
+NCT03363867,Cobimetinib,True,3
+NCT03574402,Abivertinib Maleate Anhydrous,True,14
+NCT03574402,Afatinib,True,14
+NCT03574402,Crizotinib,True,14
+NCT03574402,Ensartinib,True,14
+NCT03574402,Chidamide,True,14
+NCT03574402,pyrotinib dimaleate,True,14
+NCT03574402,Zorifertinib,True,14
+NCT03574402,Pirotinib,True,14
+NCT03574402,Nimotuzumab,True,14
+NCT03574402,Pemetrexed,True,14
+NCT03574402,Cisplatin,True,14
+NCT03574402,Sintilimab,True,14
+NCT03574402,Gemcitabine,True,14
+NCT03574402,Carboplatin,True,14
+NCT03516591,Vixtimotamab,False,1
+NCT03535727,Nab-paclitaxel,True,5
+NCT03535727,Gemcitabine,True,5
+NCT03535727,Capecitabine,True,5
+NCT03535727,Cisplatin,True,5
+NCT03535727,Irinotecan,True,5
+NCT03483675,Immunosuppressive Therapy,False,1
+NCT03529266,Fibrin Sealant,True,2
+NCT03529266,Surgical Procedure,True,2
+NCT03410693,Rogaratinib,True,4
+NCT03410693,Docetaxel,True,4
+NCT03410693,Paclitaxel,True,4
+NCT03410693,Vinflunine,True,4
+NCT03533582,Carboplatin,True,12
+NCT03533582,Cisplatin,True,12
+NCT03533582,Doxorubicin,True,12
+NCT03533582,Etoposide,True,12
+NCT03533582,Fluorouracil,True,12
+NCT03533582,Gemcitabine,True,12
+NCT03533582,Irinotecan,True,12
+NCT03533582,Laboratory Biomarker Analysis,True,12
+NCT03533582,Oxaliplatin,True,12
+NCT03533582,Resection,True,12
+NCT03533582,Sorafenib,True,12
+NCT03533582,vincristine sulfate,True,12
+NCT03473756,Rogaratinib,True,2
+NCT03473756,Atezolizumab,True,2
+NCT03544125,Durvalumab,True,2
+NCT03544125,Olaparib,True,2
+NCT03245554,Propranolol,False,1
+NCT04263298,Fulvestrant,True,2
+NCT04263298,Capecitabine,True,2
+NCT03341520,Obinutuzumab,True,2
+NCT03341520,Low Dose Radiation Therapy,True,2
+NCT03464201,Enzalutamide,False,1
+NCT03239392,EQ 101,False,1
+NCT03488225,Cyclophosphamide,True,13
+NCT03488225,Cytarabine,True,13
+NCT03488225,Dexamethasone,True,13
+NCT03488225,doxorubicin hydrochloride,True,13
+NCT03488225,Inotuzumab ozogamicin,True,13
+NCT03488225,Laboratory Biomarker Analysis,True,13
+NCT03488225,leucovorin calcium,True,13
+NCT03488225,Mercaptopurine,True,13
+NCT03488225,Methotrexate,True,13
+NCT03488225,Ofatumumab,True,13
+NCT03488225,Prednisone,True,13
+NCT03488225,Rituximab,True,13
+NCT03488225,vincristine sulfate,True,13
+NCT03492931,Ticagrelor,False,1
+NCT02876640,Biospecimen Collection,True,3
+NCT02876640,Retinoid 9cUAB30,True,3
+NCT02876640,Therapeutic Conventional Surgery,True,3
+NCT03418168,Molidustat,False,1
+NCT03402230,Broccoli Sprout/Broccoli Seed Extract Supplement,True,3
+NCT03402230,Laboratory Biomarker Analysis,True,3
+NCT03402230,Questionnaire Administration,True,3
+NCT03407300,Docetaxel,False,1
+NCT03395873,Decitabine,True,2
+NCT03395873,Avelumab,True,2
+NCT03390062,Rivoceranib,False,1
+NCT03164772,Durvalumab,True,4
+NCT03164772,Tremelimumab,True,4
+NCT03164772,CV 9202,True,4
+NCT03164772,Intradermal Route of Administration,True,4
+NCT03231176,Varlitinib,True,2
+NCT03231176,Capecitabine,True,2
+NCT03315364,Paclitaxel,False,1
+NCT03350477,Ablation Therapy,True,2
+NCT03350477,Qilisheng Immunoregulatory Oral Solution,True,2
+NCT03298893,Nivolumab,True,3
+NCT03298893,Cisplatin,True,3
+NCT03298893,Radiation Therapy,True,3
+NCT03362723,RG7388,False,1
+NCT03352947,Dabrafenib,True,2
+NCT03352947,Trametinib,True,2
+NCT03427242,Rivoceranib,False,1
+NCT02570958,Indocyanine green,True,4
+NCT02570958,Wedge Excision,True,4
+NCT02570958,Lobectomy,True,4
+NCT02570958,Segmentectomy,True,4
+NCT03222609,Ruxolitinib,True,2
+NCT03222609,Navitoclax,True,2
+NCT03106779,Asciminib,True,2
+NCT03106779,Bosutinib,True,2
+NCT02760953,Cryosurgery,True,2
+NCT02760953,Epirubicin,True,2
+NCT03233347,Brentuximab vedotin,True,6
+NCT03233347,Dacarbazine,True,6
+NCT03233347,Doxorubicin,True,6
+NCT03233347,Laboratory Biomarker Analysis,True,6
+NCT03233347,Nivolumab,True,6
+NCT03233347,Vinblastine,True,6
+NCT03168100,Elotuzumab,True,4
+NCT03168100,Lenalidomide,True,4
+NCT03168100,Dexamethasone,True,4
+NCT03168100,Bortezomib,True,4
+NCT03256071,Decitabine,True,5
+NCT03256071,Semustine,True,5
+NCT03256071,Cytarabine,True,5
+NCT03256071,Busulfan,True,5
+NCT03256071,Cyclophosphamide,True,5
+NCT03288493,Rimiducid,False,1
+NCT03045653,Tamoxifen,False,1
+NCT03280264,Evocalcet,False,1
+NCT03194932,Venetoclax,True,5
+NCT03194932,Cytarabine,True,5
+NCT03194932,Idarubicin,True,5
+NCT03194932,Triple Intrathecal Chemotherapy,True,5
+NCT03194932,Azacitidine,True,5
+NCT03950141,Rivoceranib,True,2
+NCT03950141,Gimeracil/oteracil/tegafur,True,2
+NCT03042416,Fluorodopa-F-18,False,1
+NCT03229200,Ibrutinib,False,1
+NCT03085069,Camrelizumab,False,1
+NCT02567422,Berzosertib,True,7
+NCT02567422,Cisplatin,True,7
+NCT02567422,Computed Tomography,True,7
+NCT02567422,Laboratory Biomarker Analysis,True,7
+NCT02567422,Magnetic Resonance Imaging,True,7
+NCT02567422,Positron Emission Tomography,True,7
+NCT02567422,Radiation Therapy,True,7
+NCT03167853,Anti-PD1 Monoclonal Antibody,False,1
+NCT06390839,Biopsy,True,5
+NCT06390839,Biospecimen Collection,True,5
+NCT06390839,Computed Tomography,True,5
+NCT06390839,Magnetic Resonance Imaging,True,5
+NCT06390839,Palbociclib,True,5
+NCT03020030,Pegaspargase,True,15
+NCT03020030,Crisantaspase,True,15
+NCT03020030,Cyclophosphamide,True,15
+NCT03020030,Cytarabine,True,15
+NCT03020030,Dasatinib,True,15
+NCT03020030,Dexamethasone,True,15
+NCT03020030,Dexrazoxane,True,15
+NCT03020030,Doxorubicin,True,15
+NCT03020030,Etoposide,True,15
+NCT03020030,Hydrocortisone,True,15
+NCT03020030,leucovorin calcium,True,15
+NCT03020030,Mercaptopurine,True,15
+NCT03020030,Methotrexate,True,15
+NCT03020030,Nelarabine,True,15
+NCT03020030,Vincristine,True,15
+NCT03052127,Belzupacap sarotalocan,True,2
+NCT03052127,Laser Activation,True,2
+NCT02216578,Cabozantinib,False,1
+NCT02782546,Allogeneic Hematopoietic Stem Cell Transplantation,True,7
+NCT02782546,Tacrolimus,True,7
+NCT02782546,Mycophenolate mofetil,True,7
+NCT02782546,Filgrastim,True,7
+NCT02782546,Donor-derived Cytokine-induced Memory-like Natural Killer Cells,True,7
+NCT02782546,ALT 801,True,7
+NCT02782546,Leukapheresis,True,7
+NCT02935205,Enzalutamide,True,2
+NCT02935205,Indometacin,True,2
+NCT03141463,Vvax 001,False,1
+NCT03096184,rivoceranib mesylate,True,2
+NCT03096184,Gimeracil/oteracil/tegafur,True,2
+NCT02881554,Computed Tomography,True,3
+NCT02881554,Single Photon Emission Computed Tomography,True,3
+NCT02881554,technetium tc-99m sulfur colloid,True,3
+NCT02970539,Oral Paclitaxel + Encequidar - Hanmi,True,4
+NCT02970539,Paclitaxel,True,4
+NCT02970539,HM 30181A,True,4
+NCT02970539,Ramucirumab,True,4
+NCT02962063,Durvalumab,True,6
+NCT02962063,Carboplatin,True,6
+NCT02962063,Paclitaxel,True,6
+NCT02962063,External Beam Radiation Therapy,True,6
+NCT02962063,Esophagogastrectomy,True,6
+NCT02962063,Tremelimumab,True,6
+NCT03027739,Tisagenlecleucel,False,1
+NCT02810990,Bosutinib,False,1
+NCT02873598,FOLFIRINOX,True,4
+NCT02873598,Gemcitabine,True,4
+NCT02873598,Paclitaxel,True,4
+NCT02873598,Stereotactic Body Radiation Therapy,True,4
+NCT02921919,Talazoparib,False,1
+NCT02940886,Iron Isomaltoside 1000,True,2
+NCT02940886,Iron sucrose,True,2
+NCT02921893,Dexamethasone,True,4
+NCT02921893,Ixazomib citrate,True,4
+NCT02921893,Lenalidomide,True,4
+NCT02921893,Questionnaire Administration,True,4
+NCT02942173,CD45RA-depleted Donor T-lymphocytes,False,1
+NCT02946021,Indocyanine green,True,2
+NCT02946021,Near-Infrared Fluorescence Imaging,True,2
+NCT03606863,Total Parenteral Nutrition,False,1
+NCT02873975,Prexasertib,False,1
+NCT02829840,Ponatinib,True,2
+NCT02829840,Azacitidine,True,2
+NCT03070548,Talazoparib,False,1
+NCT02903914,Numidargistat,True,2
+NCT02903914,Pembrolizumab,True,2
+NCT02880371,ARRY 382,True,2
+NCT02880371,Pembrolizumab,True,2
+NCT02768792,Pembrolizumab,False,1
+NCT02721550,Sodium Glycididazole,False,1
+NCT02693067,Rose bengal sodium,False,1
+NCT02886897,PD-1 Inhibitor,True,2
+NCT02886897,Valproic acid,True,2
+NCT02924753,Cyclophosphamide,True,3
+NCT02924753,Fludarabine,True,3
+NCT02924753,CART-19 - Henan Cancer Hospital,True,3
+NCT02724878,Bevacizumab,True,2
+NCT02724878,Atezolizumab,True,2
+NCT02725489,Durvalumab,False,1
+NCT02808442,Allo 501,False,1
+NCT02661685,Autologous Interferon-producing Killer Dendritic Cells,False,1
+NCT02775370,rivoceranib mesylate,False,1
+NCT02787369,Ricolinostat,True,3
+NCT02787369,Ibrutinib,True,3
+NCT02787369,Idelalisib,True,3
+NCT04439123,Capivasertib,False,1
+NCT01821833,Omega 3 fatty acids,True,3
+NCT01821833,Placebo Control,True,3
+NCT01821833,Paclitaxel,True,3
+NCT02780310,Lenvatinib,False,1
+NCT02692248,Ibrutinib,True,5
+NCT02692248,Rituximab,True,5
+NCT02692248,Gemcitabine,True,5
+NCT02692248,Oxaliplatin,True,5
+NCT02692248,Dexamethasone,True,5
+NCT02697058,Irinotecan Sucrosofate,True,3
+NCT02697058,Fluorouracil,True,3
+NCT02697058,Levoleucovorin Calcium,True,3
+NCT02688712,Galunisertib,True,4
+NCT02688712,Capecitabine,True,4
+NCT02688712,Fluorouracil,True,4
+NCT02688712,Total Mesorectal Excision,True,4
+NCT02712112,imatinib mesylate,False,1
+NCT02653105,OLFM4 Gene,False,1
+NCT02680574,Vadadustat,True,2
+NCT02680574,Darbepoetin alfa,True,2
+NCT03564704,Dexamethasone,True,21
+NCT03564704,Vincristine,True,21
+NCT03564704,Cyclophosphamide,True,21
+NCT03564704,Idarubicin,True,21
+NCT03564704,Pegaspargase,True,21
+NCT03564704,doxorubicin hydrochloride,True,21
+NCT03564704,Methotrexate,True,21
+NCT03564704,Mercaptopurine,True,21
+NCT03564704,Etoposide,True,21
+NCT03564704,Cytarabine,True,21
+NCT03564704,Bone Marrow Aspiration,True,21
+NCT03564704,Intrathecal Chemotherapy,True,21
+NCT03564704,Radiation Therapy,True,21
+NCT03564704,Next Generation Sequencing,True,21
+NCT03564704,Allogeneic Hematopoietic Stem Cell Transplantation,True,21
+NCT03564704,IMWG Flow MRD-negative,True,21
+NCT03564704,Fluorescence In Situ Hybridization,True,21
+NCT03564704,Flow Cytometry,True,21
+NCT03564704,Karyotyping,True,21
+NCT03564704,Chidamide,True,21
+NCT03564704,Positron Emission Tomography and Computed Tomography Scan,True,21
+NCT02460367,Docetaxel,True,3
+NCT02460367,Tergenpumatucel-L,True,3
+NCT02460367,Indoximod,True,3
+NCT02621970,Cisplatin,True,4
+NCT02621970,Docetaxel,True,4
+NCT02621970,Capecitabine,True,4
+NCT02621970,Intensity-Modulated Radiation Therapy,True,4
+NCT02671955,Onvatilimab,False,1
+NCT02523469,ALT 801,True,2
+NCT02523469,Nivolumab,True,2
+NCT02459067,Autologous gamma delta T cell therapy- TC BioPharm,False,1
+NCT02634827,Decitabine,True,3
+NCT02634827,Laboratory Biomarker Analysis,True,3
+NCT02634827,Midostaurin,True,3
+NCT02622932,Catequentinib,True,2
+NCT02622932,Carbon C 14 Anlotinib Hydrochloride,True,2
+NCT02384382,Enzalutamide,False,1
+NCT02496741,Metformin,True,2
+NCT02496741,Chloroquine,True,2
+NCT02549352,Ingenol disoxate,False,1
+NCT02608216,Fluorothymidine F-18,True,4
+NCT02608216,Calcium trisodium pentetate,True,4
+NCT02608216,Ribociclib,True,4
+NCT02608216,Paclitaxel,True,4
+NCT02501902,Palbociclib,True,2
+NCT02501902,Nab-paclitaxel,True,2
+NCT02494713,Degarelix,True,5
+NCT02494713,Doxorubicin,True,5
+NCT02494713,Ketoconazole,True,5
+NCT02494713,Docetaxel,True,5
+NCT02494713,Estramustine,True,5
+NCT02514603,Prexasertib,False,1
+NCT02574533,Armodafinil,True,2
+NCT02574533,Pembrolizumab,True,2
+NCT02648711,Davamotecan Pegadexamer,True,3
+NCT02648711,Bevacizumab,True,3
+NCT02648711,mFOLFOX6,True,3
+NCT02752204,Vistusertib,True,2
+NCT02752204,Rituximab,True,2
+NCT02308072,Olaparib,True,3
+NCT02308072,Cisplatin,True,3
+NCT02308072,Intensity-Modulated Radiation Therapy,True,3
+NCT03507088,Contrast Enhanced PET-CT Scan,False,1
+NCT02166658,Cabazitaxel,False,1
+NCT02514382,Bortezomib,True,4
+NCT02514382,Dexamethasone,True,4
+NCT02514382,Laboratory Biomarker Analysis,True,4
+NCT02514382,Pelareorep,True,4
+NCT02526329,Donor Regulatory T-lymphocytes,True,2
+NCT02526329,Laboratory Biomarker Analysis,True,2
+NCT02367040,Copanlisib,True,3
+NCT02367040,Placebo Control,True,3
+NCT02367040,Rituximab,True,3
+NCT02383966,Cetuximab,True,4
+NCT02383966,Cisplatin,True,4
+NCT02383966,Carboplatin,True,4
+NCT02383966,Fluorouracil,True,4
+NCT02496208,Biopsy,True,8
+NCT02496208,Biospecimen Collection,True,8
+NCT02496208,cabozantinib s-malate,True,8
+NCT02496208,Computed Tomography,True,8
+NCT02496208,Echocardiography,True,8
+NCT02496208,Ipilimumab,True,8
+NCT02496208,Magnetic Resonance Imaging,True,8
+NCT02496208,Nivolumab,True,8
+NCT02420223,Propranolol,False,1
+NCT02436408,Vismodegib,False,1
+NCT02497378,Daratumumab,True,3
+NCT02497378,Bortezomib,True,3
+NCT02497378,Dexamethasone,True,3
+NCT01591356,EphA2-targeting DOPC-encapsulated siRNA,True,2
+NCT01591356,Laboratory Biomarker Analysis,True,2
+NCT02482311,Adavosertib,False,1
+NCT02438358,Pegulicianine acetate,True,2
+NCT02438358,LUM Imaging Device,True,2
+NCT02489903,Nibrozetone,True,12
+NCT02489903,Cisplatin,True,12
+NCT02489903,Etoposide,True,12
+NCT02489903,Carboplatin,True,12
+NCT02489903,Irinotecan,True,12
+NCT02489903,Vinorelbine,True,12
+NCT02489903,Pegylated liposomal doxorubicin,True,12
+NCT02489903,Gemcitabine,True,12
+NCT02489903,Taxanes,True,12
+NCT02489903,Paclitaxel,True,12
+NCT02489903,Nab-paclitaxel,True,12
+NCT02489903,Pemetrexed,True,12
+NCT02207309,Pazopanib,True,2
+NCT02207309,Placebo Control,True,2
+NCT03757754,HPPH,True,3
+NCT03757754,Light Dosimetry,True,3
+NCT03757754,CLR 1404 I-124,True,3
+NCT02394795,Oxaliplatin,True,5
+NCT02394795,Levoleucovorin Calcium,True,5
+NCT02394795,Fluorouracil,True,5
+NCT02394795,Panitumumab,True,5
+NCT02394795,Bevacizumab,True,5
+NCT02396134,CMVpp65-A*0201 Peptide Vaccine,True,3
+NCT02396134,Placebo Control,True,3
+NCT02396134,Laboratory Biomarker Analysis,True,3
+NCT04440956,64Cu-SARTATE,False,1
+NCT02292550,Ribociclib,True,2
+NCT02292550,Ceritinib,True,2
+NCT02314169,Biospecimen Collection,True,5
+NCT02314169,Computed Tomography,True,5
+NCT02314169,Ipilimumab,True,5
+NCT02314169,Magnetic Resonance Imaging,True,5
+NCT02314169,Nivolumab,True,5
+NCT02291055,Axalimogene filolisbac,True,2
+NCT02291055,Durvalumab,True,2
+NCT02353741,Erlotinib,True,2
+NCT02353741,Thoracic Radiation Therapy,True,2
+NCT02530411,Fulvestrant,True,2
+NCT02530411,Vandetanib,True,2
+NCT02866370,Nintedanib,True,6
+NCT02866370,Paclitaxel,True,6
+NCT02866370,Carboplatin,True,6
+NCT02866370,Pegylated liposomal doxorubicin,True,6
+NCT02866370,Topotecan,True,6
+NCT02866370,Doxorubicin,True,6
+NCT02437227,BAL 3833,False,1
+NCT02322281,Rociletinib,True,5
+NCT02322281,Pemetrexed,True,5
+NCT02322281,Gemcitabine,True,5
+NCT02322281,Paclitaxel,True,5
+NCT02322281,Docetaxel,True,5
+NCT02345408,CCR2 Antagonist CCX872-B,False,1
+NCT02517918,Sirolimus,True,4
+NCT02517918,Cyclophosphamide,True,4
+NCT02517918,Methotrexate,True,4
+NCT02517918,Zoledronic acid,True,4
+NCT02616601,Fluorouracil,True,2
+NCT02616601,Vehicle Control,True,2
+NCT03862170,Ciprofloxacin,True,2
+NCT03862170,Cefazolin,True,2
+NCT02276560,Cisplatin,True,5
+NCT02276560,Nab-paclitaxel,True,5
+NCT02276560,Surgical Procedure,True,5
+NCT02276560,Pemetrexed,True,5
+NCT02276560,Gemcitabine,True,5
+NCT02314052,DCR MYC,False,1
+NCT02254954,Macitentan,True,3
+NCT02254954,Temozolomide,True,3
+NCT02254954,Radiation Therapy,True,3
+NCT02391038,Indusatumab vedotin,False,1
+NCT02298387,Navicixizumab,False,1
+NCT02306278,Gabapentin,True,2
+NCT02306278,B Vitamin,True,2
+NCT02285179,Taselisib,True,2
+NCT02285179,Tamoxifen,True,2
+NCT03012945,Ropivacaine,True,6
+NCT03012945,Sufentanil,True,6
+NCT03012945,General Anesthesia Procedure,True,6
+NCT03012945,Propofol,True,6
+NCT03012945,Sevoflurane,True,6
+NCT03012945,Morphine,True,6
+NCT02212197,leuprolide acetate,False,1
+NCT02274337,Abivertinib,False,1
+NCT02217709,phenelzine sulfate,True,3
+NCT02217709,Laboratory Biomarker Analysis,True,3
+NCT02217709,Questionnaire Administration,True,3
+NCT02231723,Napabucasin,True,8
+NCT02231723,Nab-paclitaxel,True,8
+NCT02231723,Gemcitabine,True,8
+NCT02231723,Oxaliplatin,True,8
+NCT02231723,Folinic acid,True,8
+NCT02231723,Irinotecan,True,8
+NCT02231723,Fluorouracil,True,8
+NCT02231723,Irinotecan Sucrosofate,True,8
+NCT02361112,Pyrotinib,True,2
+NCT02361112,Capecitabine,True,2
+NCT02029417,Cytarabine,True,4
+NCT02029417,Omacetaxine mepesuccinate,True,4
+NCT02029417,Decitabine,True,4
+NCT02029417,Laboratory Biomarker Analysis,True,4
+NCT02115035,Vemurafenib,False,1
+NCT02128191,Ibuprofen,True,2
+NCT02128191,Sodium chloride,True,2
+NCT02194426,MP 0250,False,1
+NCT01880359,Cisplatin,True,4
+NCT01880359,Radiation Therapy,True,4
+NCT01880359,Placebo Control,True,4
+NCT01880359,Nimorazole,True,4
+NCT02195869,Ibrutinib,False,1
+NCT02101684,Orteronel,False,1
+NCT02119468,Ixazomib citrate,True,3
+NCT02119468,Dexamethasone,True,3
+NCT02119468,Pomalidomide,True,3
+NCT02176746,Cancer vaccine,False,1
+NCT02252146,Bazlitoran,False,1
+NCT02059239,Bendamustine,True,9
+NCT02059239,Carmustine,True,9
+NCT02059239,Etoposide,True,9
+NCT02059239,Melphalan,True,9
+NCT02059239,Cytarabine,True,9
+NCT02059239,Alemtuzumab,True,9
+NCT02059239,Autologous Hematopoietic Stem Cell Transplantation,True,9
+NCT02059239,Allogeneic Hematopoietic Stem Cell Transplantation,True,9
+NCT02059239,Rituximab,True,9
+NCT01802814,Epratuzumab,False,1
+NCT01943188,Stereotactic Body Radiation Therapy,True,4
+NCT01943188,Cyclophosphamide,True,4
+NCT01943188,Therapeutic Autologous Lymphocytes,True,4
+NCT01943188,Laboratory Biomarker Analysis,True,4
+NCT02069093,Dexamethasone,True,3
+NCT02069093,Everolimus,True,3
+NCT02069093,Exemestane,True,3
+NCT02137785,Aminolevulinic acid,True,3
+NCT02137785,aminolevulinic acid hydrochloride,True,3
+NCT02137785,Blue Light Photodynamic Therapy Illuminator,True,3
+NCT02111577,Docetaxel,True,4
+NCT02111577,Prednisone,True,4
+NCT02111577,Stapuldencel-T,True,4
+NCT02111577,Placebo Control,True,4
+NCT02038010,Alpelisib,True,3
+NCT02038010,Trastuzumab emtansine,True,3
+NCT02038010,Laboratory Biomarker Analysis,True,3
+NCT02071537,Chloroquine,True,3
+NCT02071537,Carboplatin,True,3
+NCT02071537,Gemcitabine,True,3
+NCT02058381,Alpelisib,True,2
+NCT02058381,Buparlisib,True,2
+NCT05008237,Docetaxel,True,2
+NCT05008237,Cisplatin,True,2
+NCT01991873,Panitumumab,False,1
+NCT02065869,Rivogenlecleucel,True,2
+NCT02065869,Rimiducid,True,2
+NCT02146118,Erlotinib,True,2
+NCT02146118,Phosphatidylcholine-Bound Silybin,True,2
+NCT02117167,Vistusertib,True,10
+NCT02117167,ABSK 091,True,10
+NCT02117167,Capivasertib,True,10
+NCT02117167,Sapitinib,True,10
+NCT02117167,Selumetinib,True,10
+NCT02117167,Vandetanib,True,10
+NCT02117167,Pemetrexed,True,10
+NCT02117167,Durvalumab,True,10
+NCT02117167,Savolitinib,True,10
+NCT02117167,Olaparib,True,10
+NCT02697552,Tucidinostat,False,1
+NCT02159365,Elotuzumab,True,3
+NCT02159365,Lenalidomide,True,3
+NCT02159365,Dexamethasone,True,3
+NCT01895842,Ruxolitinib,False,1
+NCT02041429,Ruxolitinib,True,2
+NCT02041429,Paclitaxel,True,2
+NCT02076230,[14C] TH-302,True,2
+NCT02076230,Evofosfamide,True,2
+NCT02089178,Propofol,True,4
+NCT02089178,Remifentanil,True,4
+NCT02089178,Sevoflurane,True,4
+NCT02089178,General Anesthesia Procedure,True,4
+NCT03977103,Radiation Therapy,True,4
+NCT03977103,Carvedilol,True,4
+NCT03977103,glucosamine sulfate potassium chloride,True,4
+NCT03977103,Allogeneic Hematopoietic Stem Cell Transplantation,True,4
+NCT02027090,Icotinib,False,1
+NCT02029937,Proflavine Hemisulfate,True,2
+NCT02029937,High-Resolution Microendoscopy,True,2
+NCT01397799,Tirbanibulin,False,1
+NCT01588951,Cytarabine,True,2
+NCT01588951,Allogeneic Stem Cell Transplantation,True,2
+NCT01659502,TL 118,False,1
+NCT01928030,Recombinant Human Hyaluronidase,False,1
+NCT01987102,Folinic acid,True,3
+NCT01987102,Folitixorin,True,3
+NCT01987102,High-Dose Methotrexate Regimen,True,3
+NCT02001272,Paclitaxel,True,2
+NCT02001272,Carboplatin,True,2
+NCT01969695,Venetoclax,False,1
+NCT01974349,Selumetinib,False,1
+NCT01809171,Colecalciferol,True,2
+NCT01809171,Placebo Control,True,2
+NCT01866449,Cabazitaxel,False,1
+NCT01976195,Dexamethasone,True,2
+NCT01976195,Thalidomide,True,2
+NCT01989845,Rivaroxaban,False,1
+NCT01848132,Bortezomib,True,6
+NCT01848132,Rituximab,True,6
+NCT01848132,Cyclophosphamide,True,6
+NCT01848132,Doxorubicin,True,6
+NCT01848132,Prednisone,True,6
+NCT01848132,Vincristine,True,6
+NCT01864772,Carboplatin,True,3
+NCT01864772,Fluorouracil,True,3
+NCT01864772,Cetuximab,True,3
+NCT01820325,Buparlisib,True,3
+NCT01820325,Carboplatin,True,3
+NCT01820325,Paclitaxel,True,3
+NCT02083692,Metformin,False,1
+NCT01816594,Buparlisib,True,4
+NCT01816594,Trastuzumab,True,4
+NCT01816594,Paclitaxel,True,4
+NCT01816594,Placebo,True,4
+NCT01932580,Fluorouracil,True,3
+NCT01932580,Oxaliplatin,True,3
+NCT01932580,Docetaxel,True,3
+NCT01795430,Etoposide,True,9
+NCT01795430,Ifosfamide,True,9
+NCT01795430,Intensity-Modulated Radiation Therapy,True,9
+NCT01795430,topotecan hydrochloride,True,9
+NCT01795430,Busulfan,True,9
+NCT01795430,Melphalan,True,9
+NCT01795430,Autologous Hematopoietic Stem Cell Transplantation,True,9
+NCT01795430,Peripheral Blood Stem Cell Transplantation,True,9
+NCT01795430,Autologous Bone Marrow Transplantation,True,9
+NCT01849380,Gimeracil/oteracil/tegafur,True,2
+NCT01849380,Fluorouracil,True,2
+NCT01481233,Colchicine,False,1
+NCT01849250,Docosahexaenoic acid,True,2
+NCT01849250,Placebo Control,True,2
+NCT01867866,Tipiracil/trifluridine,True,2
+NCT01867866,Trifluridine,True,2
+NCT01846416,Atezolizumab,False,1
+NCT04635852,Fentanyl,True,2
+NCT04635852,Morphine,True,2
+NCT01630564,Aldesleukin,True,4
+NCT01630564,Umbilical Cord Blood Stem Cell,True,4
+NCT01630564,Ex Vivo-Expanded Cord Blood Progenitor Cell Infusion,True,4
+NCT01630564,Umbilical Cord Blood-Derived Lymphocyte Therapy,True,4
+NCT01805037,Brentuximab vedotin,True,3
+NCT01805037,Rituximab,True,3
+NCT01805037,Laboratory Biomarker Analysis,True,3
+NCT01806675,Positron Emission Tomography and Computed Tomography Scan,True,2
+NCT01806675,2-Fluoropropionyl-labeled Pegylated Dimeric RGD Peptide,True,2
+NCT01783522,Glutamine,True,2
+NCT01783522,Placebo Control,True,2
+NCT01790737,Cyclophosphamide,True,2
+NCT01790737,Filgrastim,True,2
+NCT01859819,Rituximab,True,2
+NCT01859819,Cytarabine,True,2
+NCT01738451,Dabrafenib,True,2
+NCT01738451,Placebo Control,True,2
+NCT01740271,Epirubicin,False,1
+NCT01759810,Dendritic Cell Vaccine,True,4
+NCT01759810,Therapeutic Allogeneic Hematopoietic Stem Cells,True,4
+NCT01759810,Cytotoxic T lymphocytes,True,4
+NCT01759810,Therapeutic Autologous Hematopoietic Stem Cells,True,4
+NCT01729338,Bortezomib,True,3
+NCT01729338,Cyclophosphamide,True,3
+NCT01729338,Lenalidomide,True,3
+NCT01763606,enoxaparin,True,2
+NCT01763606,Aspirin,True,2
+NCT01659021,Idelalisib,True,2
+NCT01659021,Ofatumumab,True,2
+NCT01764880,Roneparstat,False,1
+NCT02724267,Iodine I131 Derlotuximab biotin,False,1
+NCT01680965,Ofatumumab,False,1
+NCT01585350,MELITAC 12.1 Peptide Vaccine,True,3
+NCT01585350,Incomplete Freund's adjuvant,True,3
+NCT01585350,Poly ICLC,True,3
+NCT01671774,Zolbetuximab,True,3
+NCT01671774,Zoledronic acid,True,3
+NCT01671774,Interleukin-2,True,3
+NCT01633060,Fulvestrant,True,3
+NCT01633060,Buparlisib,True,3
+NCT01633060,Placebo,True,3
+NCT01617226,Azacitidine,True,2
+NCT01617226,Vorinostat,True,2
+NCT01746992,Cyclophosphamide,True,8
+NCT01746992,Vincristine,True,8
+NCT01746992,Doxorubicin,True,8
+NCT01746992,Prednisone,True,8
+NCT01746992,Ifosfamide,True,8
+NCT01746992,Pirarubicin,True,8
+NCT01746992,Etoposide phosphate,True,8
+NCT01746992,Methotrexate,True,8
+NCT01728623,Lenvatinib,False,1
+NCT01663415,Enzalutamide,False,1
+NCT01634880,Panitumumab,True,2
+NCT01634880,Adjuvant Radiotherapy,True,2
+NCT01929980,Bortezomib,False,1
+NCT01611766,Cytoreductive Surgery,False,1
+NCT01607580,Methylprednisolone,False,1
+NCT01693445,Oxaliplatin,True,3
+NCT01693445,Irinotecan,True,3
+NCT01693445,Gimeracil/oteracil/tegafur,True,3
+NCT01531387,Hydroxycarbamide,False,1
+NCT01583816,Resiquimod,True,2
+NCT01583816,Placebo Control,True,2
+NCT01596647,Caffeine,True,5
+NCT01596647,Diclofenac,True,5
+NCT01596647,Omeprazole,True,5
+NCT01596647,Midazolam,True,5
+NCT01596647,dovitinib lactate,True,5
+NCT01570868,Ponatinib,False,1
+NCT01655719,Pioglitazone,False,1
+NCT01572662,fludarabine phosphate,True,6
+NCT01572662,Busulfan,True,6
+NCT01572662,Hematopoietic Cell Transplantation,True,6
+NCT01572662,Tacrolimus,True,6
+NCT01572662,Methotrexate,True,6
+NCT01572662,Filgrastim,True,6
+NCT01334502,Rituximab,True,6
+NCT01334502,Cyclophosphamide,True,6
+NCT01334502,doxorubicin hydrochloride,True,6
+NCT01334502,Everolimus,True,6
+NCT01334502,Prednisone,True,6
+NCT01334502,vincristine sulfate,True,6
+NCT01516996,Docetaxel,True,4
+NCT01516996,Cisplatin,True,4
+NCT01516996,Intensity-Modulated Radiation Therapy,True,4
+NCT01516996,Nimotuzumab,True,4
+NCT01554254,Angiotensin-1-7,False,1
+NCT01886066,Indocyanine green,False,1
+NCT01876043,Plitidepsin,False,1
+NCT01527136,Entolimod,True,2
+NCT01527136,Laboratory Biomarker Analysis,True,2
+NCT01542437,Afatinib,False,1
+NCT01620736,Raltegravir,False,1
+NCT03364439,Radiation Therapy,False,1
+NCT01428492,Afuresertib,True,3
+NCT01428492,Bortezomib,True,3
+NCT01428492,Dexamethasone,True,3
+NCT01469572,Pasireotide,True,3
+NCT01469572,Transarterial Radioembolization,True,3
+NCT01469572,Everolimus,True,3
+NCT01481129,MK 2206,True,2
+NCT01481129,Laboratory Biomarker Analysis,True,2
+NCT01510756,Sorafenib,False,1
+NCT01468389,Capecitabine,False,1
+NCT01339442,Buparlisib,True,3
+NCT01339442,Fulvestrant,True,3
+NCT01339442,Biopsy,True,3
+NCT03117335,Placebo,True,4
+NCT03117335,Vinorelbine,True,4
+NCT03117335,Cisplatin,True,4
+NCT03117335,Recombinant Human Endostatin,True,4
+NCT01460979,Temsirolimus,False,1
+NCT01431664,AT9283,True,2
+NCT01431664,Laboratory Biomarker Analysis,True,2
+NCT01394120,FOLFIRINOX,True,8
+NCT01394120,FOLFOX,True,8
+NCT01394120,FOLFIRI,True,8
+NCT01394120,Capecitabine,True,8
+NCT01394120,Gemcitabine,True,8
+NCT01394120,Erlotinib,True,8
+NCT01394120,GEM-CAP,True,8
+NCT01394120,Erlotinib/Gemcitabine,True,8
+NCT01429051,Fentanyl,True,2
+NCT01429051,Placebo Control,True,2
+NCT02043756,Liposomal Mitoxantrone Hydrochloride,True,2
+NCT02043756,Mitoxantrone,True,2
+NCT00816959,Hyaluronidase/rituximab,True,2
+NCT00816959,ABVD,True,2
+NCT01232296,Dovitinib,True,2
+NCT01232296,Sorafenib,True,2
+NCT01384253,212 Pb TCMC trastuzumab,True,2
+NCT01384253,Trastuzumab,True,2
+NCT01362374,Fluorouracil,True,7
+NCT01362374,Docetaxel,True,7
+NCT01362374,Enzalutamide,True,7
+NCT01362374,RG7440,True,7
+NCT01362374,Folinic acid,True,7
+NCT01362374,Oxaliplatin,True,7
+NCT01362374,Paclitaxel,True,7
+NCT01430013, Endostar,True,6
+NCT01430013,Cyclophosphamide,True,6
+NCT01430013,Pirarubicin,True,6
+NCT01430013,Vincristine,True,6
+NCT01430013,Teniposide,True,6
+NCT01430013,Prednisone,True,6
+NCT01328496,Fludarabine,True,7
+NCT01328496,Cyclophosphamide,True,7
+NCT01328496,Cyclosporin,True,7
+NCT01328496,Mycophenolate mofetil,True,7
+NCT01328496,Filgrastim,True,7
+NCT01328496,Total-Body Irradiation,True,7
+NCT01328496,Umbilical Cord Blood Transplantation,True,7
+NCT01382706,Docetaxel,True,5
+NCT01382706,lapatinib ditosylate,True,5
+NCT01382706,Immunohistochemistry Staining Method,True,5
+NCT01382706,Fluorescence In Situ Hybridization,True,5
+NCT01382706,Laboratory Biomarker Analysis,True,5
+NCT01639625,CIGB 300,False,1
+NCT01074177,Afatinib,False,1
+NCT01191697,Bevacizumab,True,4
+NCT01191697,Trastuzumab,True,4
+NCT01191697,Oxaliplatin,True,4
+NCT01191697,Capecitabine,True,4
+NCT01320020,Catumaxomab,False,1
+NCT01409499,Sorafenib,True,3
+NCT01409499,Hepatectomy,True,3
+NCT01409499,Transarterial Chemoembolization,True,3
+NCT01558947,Epirubicin,True,3
+NCT01558947,Capecitabine,True,3
+NCT01558947,Cisplatin,True,3
+NCT01156142,Doxepin Hydrochloride,True,2
+NCT01156142,Placebo Control,True,2
+NCT01251172,Autologous Hematopoietic Stem Cell Transplantation,True,6
+NCT01251172,RG 4733,True,6
+NCT01251172,Stem Cell Mobilization Therapy,True,6
+NCT01251172,In Vitro-Treated Peripheral Blood Stem Cell Transplantation,True,6
+NCT01251172,Laboratory Biomarker Analysis,True,6
+NCT01251172,Melphalan,True,6
+NCT01260506,Ofranergene obadenovec,True,2
+NCT01260506,Bevacizumab,True,2
+NCT01308645,Epinephrine,False,1
+NCT05167370,Amifostine,True,3
+NCT05167370,Melphalan,True,3
+NCT05167370,Thiotepa,True,3
+NCT01238770,Pazopanib,True,2
+NCT01238770,Cyclophosphamide,True,2
+NCT01242449,Trastuzumab,True,2
+NCT01242449,Vinorelbine,True,2
+NCT01222754,Lenalidomide,True,3
+NCT01222754,Radiation Therapy,True,3
+NCT01222754,Theophylline,True,3
+NCT01217437,Bevacizumab,True,3
+NCT01217437,irinotecan hydrochloride,True,3
+NCT01217437,Temozolomide,True,3
+NCT01195376,Dactolisib,False,1
+NCT01240577,Ropidoxuridine,False,1
+NCT01226407,Ivaltinostat,False,1
+NCT01271920,Luminespib,True,2
+NCT01271920,Trastuzumab,True,2
+NCT01370876,Oxaliplatin,True,2
+NCT01370876,Fluorouracil,True,2
+NCT02225652,Fluorouracil,True,5
+NCT02225652,Epirubicin,True,5
+NCT02225652,Cyclophosphamide,True,5
+NCT02225652,Filgrastim,True,5
+NCT02225652,Paclitaxel,True,5
+NCT02817555,Epoetin alfa,True,3
+NCT02817555,Sodium Ferric Gluconate Complex,True,3
+NCT02817555,Darbepoetin alfa,True,3
+NCT01270724,Gemcitabine,True,4
+NCT01270724,Paclitaxel,True,4
+NCT01270724,Oxaliplatin,True,4
+NCT01270724,corticotropin-releasing hormone,True,4
+NCT01718379,Lenalidomide,True,2
+NCT01718379,Epoetin beta,True,2
+NCT00829413,Sulfur hexafluoride,False,1
+NCT01091454,Brostallicin,True,2
+NCT01091454,Cisplatin,True,2
+NCT01138163,Docetaxel,True,3
+NCT01138163,Bavituximab,True,3
+NCT01138163,Placebo Control,True,3
+NCT01146574,Sotatercept,True,2
+NCT01146574,Placebo Control,True,2
+NCT01159028,Prexigebersen,True,2
+NCT01159028,Low-dose Cytarabine Regimen,True,2
+NCT01208194,Lefitolimod,True,2
+NCT01208194,Placebo Control,True,2
+NCT01323933,Simtuzumab,False,1
+NCT01369121,Corticorelin,False,1
+NCT01094860,Nelarabine,False,1
+NCT01209208,Budesonide,True,3
+NCT01209208,Mesalazine,True,3
+NCT01209208,Placebo Control,True,3
+NCT01110785,Panitumumab,True,3
+NCT01110785,Simvastatin,True,3
+NCT01110785,Laboratory Biomarker Analysis,True,3
+NCT01077453,Letrozole,True,2
+NCT01077453,Laboratory Biomarker Analysis,True,2
+NCT01118975,Vorinostat,True,2
+NCT01118975,Lapatinib,True,2
+NCT01042522,bleomycin sulfate,True,6
+NCT01042522,Carboplatin,True,6
+NCT01042522,Cisplatin,True,6
+NCT01042522,Etoposide phosphate,True,6
+NCT01042522,Laboratory Biomarker Analysis,True,6
+NCT01042522,Paclitaxel,True,6
+NCT01216436,Autologous OFA-iLRP RNA-Transfected Dendritic Cell Vaccine,False,1
+NCT01246427,Homeopathy Therapy,True,2
+NCT01246427,Placebo Control,True,2
+NCT01024920,Nintedanib,True,2
+NCT01024920,Sunitinib,True,2
+NCT01059552,Vorinostat,False,1
+NCT01183494,Bevacizumab,True,3
+NCT01183494,Irinotecan,True,3
+NCT01183494,Fluorouracil/folinic-acid,True,3
+NCT01013740,Vinorelbine,True,3
+NCT01013740,Lapatinib,True,3
+NCT01013740,Capecitabine,True,3
+NCT01019382,Gemcitabine,True,2
+NCT01019382,Fish oil,True,2
+NCT00788697,Sulfur hexafluoride,True,3
+NCT00788697,Contrast-Enhanced Ultrasound,True,3
+NCT00788697,Unenhanced ultrasound,True,3
+NCT00982436,Docetaxel,True,4
+NCT00982436,Cisplatin,True,4
+NCT00982436,Radiation Therapy,True,4
+NCT00982436,Carboplatin,True,4
+NCT01160484,Dexamethasone,True,4
+NCT01160484,Bortezomib,True,4
+NCT01160484,Pegylated Liposomal Doxorubicin Hydrochloride,True,4
+NCT01160484,Lenalidomide,True,4
+NCT00952289,Ruxolitinib,True,2
+NCT00952289,Placebo Control,True,2
+NCT00838513,Eculizumab,False,1
+NCT00927589,Carboplatin,True,3
+NCT00927589,Docetaxel,True,3
+NCT00927589,Trastuzumab,True,3
+NCT00933374,Paclitaxel,True,2
+NCT00933374,Everolimus,True,2
+NCT00961896,Drug Vehicle,True,2
+NCT00961896,Sonidegib,True,2
+NCT00962507,Everolimus,True,3
+NCT00962507,Panobinostat,True,3
+NCT00962507,Laboratory Biomarker Analysis,True,3
+NCT05278728,Nimotuzumab,True,2
+NCT05278728,Irinotecan,True,2
+NCT00918723,fludarabine phosphate,True,4
+NCT00918723,Cyclophosphamide,True,4
+NCT00918723,Rituximab,True,4
+NCT00918723,Vorinostat,True,4
+NCT00940784,Clopidogrel,True,4
+NCT00940784,Aspirin,True,4
+NCT00940784,Hydroxycarbamide,True,4
+NCT00940784,Placebo Control,True,4
+NCT01528501,Panobinostat,False,1
+NCT00807170,Vandetanib,True,2
+NCT00807170,Whole-Brain Radiotherapy,True,2
+NCT00911326,Tc 99m tilmanocept,False,1
+NCT01449344,Rituximab,True,4
+NCT01449344,Cytarabine,True,4
+NCT01449344,Dexamethasone,True,4
+NCT01449344,Bortezomib,True,4
+NCT00833040,Sufentanil,True,2
+NCT00833040,Placebo Control,True,2
+NCT00868478,Milatuzumab,False,1
+NCT01729663,Allogeneic Irradiated Melanoma Cell Vaccine CSF470,True,4
+NCT01729663,BCG vaccine,True,4
+NCT01729663,Molgramostim,True,4
+NCT01729663,Interferon-alpha-2,True,4
+NCT00858429,Capecitabine,True,2
+NCT00858429,Yttrium Y 90 Glass Microspheres,True,2
+NCT00723398,Omega-3-acid ethyl esters,True,2
+NCT00723398,Raloxifene,True,2
+NCT00866177,Laboratory Biomarker Analysis,True,2
+NCT00866177,Selumetinib,True,2
+NCT00867061,Rigosertib Sodium,False,1
+NCT00931450,Exemestane,True,3
+NCT00931450,sunitinib malate,True,3
+NCT00931450,Placebo Control,True,3
+NCT01775423,Napabucasin,False,1
+NCT00821886,Ixabepilone,True,3
+NCT00821886,Trastuzumab,True,3
+NCT00821886,Carboplatin,True,3
+NCT00832819,Lenvatinib,True,3
+NCT00832819,Paclitaxel,True,3
+NCT00832819,Carboplatin,True,3
+NCT00846508,Cisplatin,False,1
+NCT01227408,Doxorubicin,True,5
+NCT01227408,Paclitaxel poliglumex,True,5
+NCT01227408,Capecitabine,True,5
+NCT01227408,Cyclophosphamide,True,5
+NCT01227408,Methotrexate,True,5
+NCT00923247,Bortezomib,True,2
+NCT00923247,Vandetanib,True,2
+NCT00841555,Temozolomide,True,4
+NCT00841555,Radiation Therapy,True,4
+NCT00841555,Hypofractionated Radiation Therapy,True,4
+NCT00841555,Intensity-Modulated Radiation Therapy,True,4
+NCT00850785,Docetaxel,True,3
+NCT00850785,Granulocyte macrophage colony stimulating factor,True,3
+NCT00850785,DPV 001,True,3
+NCT00807872,124I-labeled monoclonal antibody Mu 11-1F4,False,1
+NCT00828841,Cetuximab,True,5
+NCT00828841,Paclitaxel,True,5
+NCT00828841,Carboplatin,True,5
+NCT00828841,Gemcitabine,True,5
+NCT00828841,Cisplatin,True,5
+NCT00832520,Mirtazapine,False,1
+NCT00906750,Trivalent Live-Attenuated Influenza Vaccine,True,2
+NCT00906750,Influenza vaccine,True,2
+NCT00729833,Figitumumab,True,2
+NCT00729833,Sunitinib,True,2
+NCT00860600,PG 2,False,1
+NCT00882973,Paclitaxel,False,1
+NCT01198392,Gimeracil/oteracil/tegafur,True,3
+NCT01198392,Cisplatin,True,3
+NCT01198392,Fluorouracil,True,3
+NCT00750841,Cediranib,True,2
+NCT00750841,Rifampicin,True,2
+NCT00733850,Kanglaite,True,2
+NCT00733850,Gemcitabine,True,2
+NCT00764517,Cladribine,True,4
+NCT00764517,Laboratory Biomarker Analysis,True,4
+NCT00764517,Rituximab,True,4
+NCT00764517,Vorinostat,True,4
+NCT00786812,Nilotinib,False,1
+NCT00669565,Bavituximab,True,3
+NCT00669565,Carboplatin,True,3
+NCT00669565,Paclitaxel,True,3
+NCT00738764,Enavatuzumab,False,1
+NCT00906360,sunitinib malate,True,3
+NCT00906360,3-Dimensional Conformal Radiation Therapy,True,3
+NCT00906360,Cetuximab,True,3
+NCT00722293,Doxorubicin,True,3
+NCT00722293,Pazopanib,True,3
+NCT00722293,Epirubicin,True,3
+NCT00642967,Methoxy Polyethylene Glycol-Epoetin beta,False,1
+NCT00684996,Etaracizumab,True,2
+NCT00684996,Bevacizumab,True,2
+NCT00691054,Nab-paclitaxel,False,1
+NCT00698009,Fludarabine,True,5
+NCT00698009,Cyclophosphamide,True,5
+NCT00698009,Natural killer cell therapy,True,5
+NCT00698009,Mesna,True,5
+NCT00698009,Interleukin-2,True,5
+NCT00702494,THR 317,False,1
+NCT00715793,Decitabine,True,3
+NCT00715793,Temozolomide,True,3
+NCT00715793,Biopsy,True,3
+NCT01922492,Autologous Islet Cell Transplantation,True,3
+NCT01922492,Metformin,True,3
+NCT01922492,Vildagliptin,True,3
+NCT00666081,GSK 690693,False,1
+NCT00677144,Oxaliplatin,True,3
+NCT00677144,Gimeracil/oteracil/tegafur,True,3
+NCT00677144,Capecitabine,True,3
+NCT00629057,MVA-BN-PRO,False,1
+NCT00634894,Letrozole,True,2
+NCT00634894,Placebo Control,True,2
+NCT01442909,Docetaxel,True,2
+NCT01442909,Pemetrexed,True,2
+NCT00615589,Fludarabine,True,3
+NCT00615589,Busulfan,True,3
+NCT00615589,Hematopoietic Cell Transplantation,True,3
+NCT00624182,URLC10 peptide vaccine,True,2
+NCT00624182,Gemcitabine,True,2
+NCT00602030,Entinostat,True,2
+NCT00602030,Erlotinib,True,2
+NCT00761085,Morphine,True,2
+NCT00761085,Methadone,True,2
+NCT00357760,Aflibercept,False,1
+NCT00573755,Anastrozole,True,5
+NCT00573755,Exemestane,True,5
+NCT00573755,Letrozole,True,5
+NCT00573755,sorafenib tosylate,True,5
+NCT00573755,Placebo Control,True,5
+NCT00585845,CRS 207,False,1
+NCT00613743,Morphine,True,2
+NCT00613743,Quinine Hydrochloride,True,2
+NCT00467051,Carboplatin,True,5
+NCT00467051,Filgrastim,True,5
+NCT00467051,Ifosfamide,True,5
+NCT00467051,Laboratory Biomarker Analysis,True,5
+NCT00467051,Paclitaxel,True,5
+NCT00431704,Vinorelbine,True,3
+NCT00431704,Carboplatin,True,3
+NCT00431704,Trastuzumab,True,3
+NCT00471445,Ketamine,True,3
+NCT00471445,Amitriptyline,True,3
+NCT00471445,Placebo Control,True,3
+NCT00502307,Tivozanib,True,2
+NCT00502307,Placebo Control,True,2
+NCT00557609,Tivantinib,False,1
+NCT00526799,Sorafenib,True,2
+NCT00526799,Topotecan,True,2
+NCT00527930,Gimeracil/oteracil/tegafur,True,2
+NCT00527930,Oxaliplatin,True,2
+NCT00531401,Salirasib,False,1
+NCT00954135,Letrozole,True,3
+NCT00954135,Cyclophosphamide,True,3
+NCT00954135,Sorafenib,True,3
+NCT00446069,morphine sulfate,False,1
+NCT00471276,Sunitinib,False,1
+NCT00849186,sunitinib malate,True,3
+NCT00849186,Neoadjuvant Therapy,True,3
+NCT00849186,Therapeutic Conventional Surgery,True,3
+NCT01268163,Docetaxel,False,1
+NCT01706627,Melatonin,False,1
+NCT00565656,Bevacizumab,False,1
+NCT00372905,Rituximab,True,5
+NCT00372905,Bortezomib,True,5
+NCT00372905,Indium In-111 Ibritumomab Tiuxetan,True,5
+NCT00372905,Yttrium Y-90 Ibritumomab Tiuxetan,True,5
+NCT00372905,Ibritumomab tiuxetan,True,5
+NCT00429182,Carboplatin,True,4
+NCT00429182,Cyclophosphamide,True,4
+NCT00429182,Thiotepa,True,4
+NCT00429182,Hematopoietic Cell Transplantation,True,4
+NCT00469859,Cytarabine,True,3
+NCT00469859,Idarubicin,True,3
+NCT00469859,Lestaurtinib,True,3
+NCT00474669,Docetaxel,False,1
+NCT00925314,Transgenic Lymphocyte Immunization Vaccine,False,1
+NCT00498407,Elacytarabine,False,1
+NCT00653848,Docetaxel,False,1
+NCT00466843,Antithymocyte globulin,True,2
+NCT00466843,Prednisone,True,2
+NCT00568815,Rituximab,True,5
+NCT00568815,Etoposide,True,5
+NCT00568815,Cytarabine,True,5
+NCT00568815,Cisplatin,True,5
+NCT00568815,Methionine,True,5
+NCT00598091,Gemcitabine,True,2
+NCT00598091,Dasatinib,True,2
+NCT00620295,Bortezomib,True,3
+NCT00620295,Gemcitabine,True,3
+NCT00620295,gemcitabine hydrochloride,True,3
+NCT00723216,enoxaparin,True,2
+NCT00723216,Physical prophylaxis,True,2
+NCT00432562,vinorelbine tartrate,False,1
+NCT00444535,Lapatinib,True,2
+NCT00444535,Bevacizumab,True,2
+NCT00085098,Filgrastim,True,6
+NCT00085098,Carboplatin,True,6
+NCT00085098,Cisplatin,True,6
+NCT00085098,Cyclophosphamide,True,6
+NCT00085098,Etoposide,True,6
+NCT00085098,Radiation Therapy,True,6
+NCT00406302,Docetaxel,True,4
+NCT00406302,Oxaliplatin,True,4
+NCT00406302,Cetuximab,True,4
+NCT00406302,Surgical Procedure,True,4
+NCT00434330,Peginesatide,True,3
+NCT00434330,Epoetin alfa,True,3
+NCT00434330,Epoetin beta,True,3
+NCT00733889,Cetuximab,True,5
+NCT00733889,Docetaxel,True,5
+NCT00733889,Cisplatin,True,5
+NCT00733889,Fluorouracil,True,5
+NCT00733889,Radiation Therapy,True,5
+NCT00382733,Topotecan,False,1
+NCT00398281,Dutasteride,True,2
+NCT00398281,Placebo Control,True,2
+NCT00551512,CBP 501,True,2
+NCT00551512,Cisplatin,True,2
+NCT00625937,Cisplatin,True,4
+NCT00625937,Docetaxel,True,4
+NCT00625937,Gimeracil/oteracil/tegafur,True,4
+NCT00625937,Radiation Therapy,True,4
+NCT00411138,Radiation Therapy,True,4
+NCT00411138,Cisplatin,True,4
+NCT00411138,Carboplatin,True,4
+NCT00411138,Paclitaxel,True,4
+NCT00373373,Sorafenib,True,2
+NCT00373373,Placebo Control,True,2
+NCT00418093,Gemcitabine,True,3
+NCT00418093,Oxaliplatin,True,3
+NCT00418093,Bevacizumab,True,3
+NCT00368121,Cetuximab,True,2
+NCT00368121,Dexamethasone,True,2
+NCT00463073,Cetuximab,True,3
+NCT00463073,Bevacizumab,True,3
+NCT00463073,Irinotecan,True,3
+NCT00743067,Foretinib,False,1
+NCT00345163,Bevacizumab,True,2
+NCT00345163,Irinotecan,True,2
+NCT00381875,E1M184V peptide vaccine - National Institutes of Health Clinical Center ,True,4
+NCT00381875,Incomplete Freund's adjuvant,True,4
+NCT00381875,Sargramostim,True,4
+NCT00381875,Immunoenzyme Procedure,True,4
+NCT00330915,Pemetrexed,False,1
+NCT00336856,Cetuximab,True,2
+NCT00336856,Irinotecan,True,2
+NCT00339131,Cold Contaminant-free Iobenguane I-131,False,1
+NCT00387205,Pazopanib,True,2
+NCT00387205,Lapatinib,True,2
+NCT00307723,Bevacizumab,True,5
+NCT00307723,Fluorouracil,True,5
+NCT00307723,Oxaliplatin,True,5
+NCT00307723,Gemcitabine,True,5
+NCT00307723,External Beam Radiation Therapy,True,5
+NCT00316875,lapatinib ditosylate,True,2
+NCT00316875,Pegylated liposomal doxorubicin,True,2
+NCT00352755,Peritonectomy,True,3
+NCT00352755,Fluorouracil,True,3
+NCT00352755,FOLFOX,True,3
+NCT00319748,852A,False,1
+NCT00454324,Carboplatin,True,2
+NCT00454324,Nab-paclitaxel,True,2
+NCT00508807,Bardoxolone methyl,False,1
+NCT01087424,Prednisone,True,5
+NCT01087424,Rituximab,True,5
+NCT01087424,Doxorubicin,True,5
+NCT01087424,Cyclophosphamide,True,5
+NCT01087424,Vincristine,True,5
+NCT00321100,Bevacizumab,True,4
+NCT00321100,Cetuximab,True,4
+NCT00321100,Oxaliplatin,True,4
+NCT00321100,Capecitabine,True,4
+NCT00319839,Nab-paclitaxel,True,2
+NCT00319839,Cetuximab,True,2
+NCT00420485,Gimatecan,False,1
+NCT00446290,Docetaxel,True,3
+NCT00446290,Capecitabine,True,3
+NCT00446290,Oxaliplatin,True,3
+NCT00458796,Zoledronic acid,True,2
+NCT00458796,Quality-of-Life Assessment,True,2
+NCT00406978,Prednisone,True,4
+NCT00406978,Melphalan,True,4
+NCT00406978,Thalidomide,True,4
+NCT00406978,Defibrotide,True,4
+NCT00303082,Lactobacillus rhamnosus,True,2
+NCT00303082,Lactobacillus reuteri Probiotic Tablet,True,2
+NCT00303953,Belinostat,False,1
+NCT00389922,lapatinib ditosylate,True,11
+NCT00389922,vinorelbine tartrate,True,11
+NCT00389922,Comparative Genomic Hybridization,True,11
+NCT00389922,Cytogenetic Analysis,True,11
+NCT00389922,Gene Expression Analysis,True,11
+NCT00389922,Genetic Variation Analysis,True,11
+NCT00389922,Polymerase Chain Reaction,True,11
+NCT00389922,Polymorphism Analysis,True,11
+NCT00389922,Reverse Transcriptase-Polymerase Chain Reaction,True,11
+NCT00389922,Immunohistochemistry Staining Method,True,11
+NCT00389922,Laboratory Biomarker Analysis,True,11
+NCT00543231,oblimersen sodium,True,2
+NCT00543231,BP1002,True,2
+NCT00861419,Sorafenib,True,5
+NCT00861419,motesanib diphosphate,True,5
+NCT00861419,Trebananib,True,5
+NCT00861419,Sunitinib,True,5
+NCT00861419,Bevacizumab,True,5
+NCT00174369,Mirdametinib,False,1
+NCT00237575,Gemcitabine,True,4
+NCT00237575,Cisplatin,True,4
+NCT00237575,Sargramostim,True,4
+NCT00237575,Filgrastim,True,4
+NCT01058538,Bifikafusp alfa,True,2
+NCT01058538,Interleukin-2,True,2
+NCT03362684,Cetuximab,True,2
+NCT03362684,FOLFOX,True,2
+NCT00240682,Cetuximab,False,1
+NCT00310050,pemetrexed disodium,True,3
+NCT00310050,Pemetrexed,True,3
+NCT00310050,Radiation Therapy,True,3
+NCT02013817,Rituximab,True,3
+NCT02013817,Fludarabine,True,3
+NCT02013817,Cyclophosphamide,True,3
+NCT00121225,Vorinostat,False,1
+NCT00247507,Acetylcysteine,False,1
+NCT00248404,NB 1011,False,1
+NCT00250419,V930,False,1
+NCT00288925,Z-360,False,1
+NCT00376740,Zoledronic acid,False,1
+NCT00532285,Paclitaxel,True,2
+NCT00532285,Gemcitabine,True,2
+NCT00129571,XL 820,False,1
+NCT00207077,Cetuximab,True,2
+NCT00207077,Erlotinib,True,2
+NCT00361088,Bortezomib,True,2
+NCT00361088,Tipifarnib,True,2
+NCT02182050,INV-1120,False,1
+NCT00100945,Gefitinib,False,1
+NCT00125749,ACT 2001,False,1
+NCT00138177,Oxaliplatin,True,4
+NCT00138177,leucovorin calcium,True,4
+NCT00138177,Vorinostat,True,4
+NCT00138177,Fluorouracil,True,4
+NCT00176748,Axitinib,False,1
+NCT00196820,Capecitabine,False,1
+NCT00271804,Bortezomib,False,1
+NCT00398554,Cyclophosphamide,True,7
+NCT00398554,doxorubicin hydrochloride,True,7
+NCT00398554,Etoposide,True,7
+NCT00398554,Prednisone,True,7
+NCT00398554,vinblastine sulfate,True,7
+NCT00398554,vincristine sulfate,True,7
+NCT00398554,Radiation Therapy,True,7
+NCT00544986,Anastrozole,False,1
+NCT00217711,Capecitabine,True,3
+NCT00217711,irinotecan hydrochloride,True,3
+NCT00217711,Oxaliplatin,True,3
+NCT00295971,Antithymocyte globulin,True,8
+NCT00295971,Therapeutic Allogeneic Lymphocytes,True,8
+NCT00295971,fludarabine phosphate,True,8
+NCT00295971,Thiotepa,True,8
+NCT00295971,Allogeneic Bone Marrow Transplantation,True,8
+NCT00295971,Allogeneic Hematopoietic Stem Cell Transplantation,True,8
+NCT00295971,In Vitro-Treated Peripheral Blood Stem Cell Transplantation,True,8
+NCT00295971,Total-Body Irradiation,True,8
+NCT00083083,Carboplatin,True,11
+NCT00083083,Cisplatin,True,11
+NCT00083083,Docetaxel,True,11
+NCT00083083,Etoposide,True,11
+NCT00083083,Paclitaxel,True,11
+NCT00083083,vinblastine sulfate,True,11
+NCT00083083,vinorelbine tartrate,True,11
+NCT00083083,Gene Expression Analysis,True,11
+NCT00083083,Positron Emission Tomography,True,11
+NCT00083083,Fludeoxyglucose F-18,True,11
+NCT00083083,Radiation Therapy,True,11
+NCT00101270,irinotecan hydrochloride,True,2
+NCT00101270,Oxaliplatin,True,2
+NCT00106262,Bortezomib,True,2
+NCT00106262,Irinotecan,True,2
+NCT00121602,Darbepoetin alfa,False,1
+NCT00191854,Gemcitabine,True,4
+NCT00191854,Paclitaxel,True,4
+NCT00191854,Carboplatin,True,4
+NCT00191854,Cisplatin,True,4
+NCT00102791,Senicapoc,False,1
+NCT00142415,Girentuximab,True,2
+NCT00142415,Lutetium Lu 177-DOTA,True,2
+NCT00806923,Cisplatin,True,4
+NCT00806923,Gemcitabine,True,4
+NCT00806923,Placebo Control,True,4
+NCT00806923,Bevacizumab,True,4
+NCT00147901,Alemtuzumab,True,3
+NCT00147901,Cyclophosphamide,True,3
+NCT00147901,Fludarabine,True,3
+NCT00457743,sunitinib malate,False,1
+NCT00874978,Lenalidomide,False,1
+NCT00216437,Capecitabine,False,1
+NCT00041262,Cisplatin,True,5
+NCT00041262,epirubicin hydrochloride,True,5
+NCT00041262,Fluorouracil,True,5
+NCT00041262,Conventional Surgery,True,5
+NCT00041262,Neoadjuvant Therapy,True,5
+NCT00096135,Filgrastim,True,14
+NCT00096135,Cyclophosphamide,True,14
+NCT00096135,Cytarabine,True,14
+NCT00096135,daunorubicin hydrochloride,True,14
+NCT00096135,Dexamethasone,True,14
+NCT00096135,Etoposide,True,14
+NCT00096135,leucovorin calcium,True,14
+NCT00096135,Mercaptopurine,True,14
+NCT00096135,Methotrexate,True,14
+NCT00096135,Pegaspargase,True,14
+NCT00096135,Hydrocortisone,True,14
+NCT00096135,vincristine sulfate,True,14
+NCT00096135,High-Dose Methotrexate Regimen,True,14
+NCT00096135,Cranial Irradiation,True,14
+NCT00155259,Docetaxel,True,3
+NCT00155259,Cisplatin,True,3
+NCT00155259,Capecitabine,True,3
+NCT00088556,canfosfamide hydrochloride,True,3
+NCT00088556,Carboplatin,True,3
+NCT00088556,Paclitaxel,True,3
+NCT00093730,BMS 599626,False,1
+NCT00176501,Therapeutic Allogeneic Lymphocytes,False,1
+NCT00076102,Pirfenidone,False,1
+NCT00227682,Ascorbic acid,True,4
+NCT00227682,Arsenic trioxide,True,4
+NCT00227682,Dexamethasone,True,4
+NCT00227682,Thalidomide,True,4
+NCT00085462,Aldesleukin,True,7
+NCT00085462,Filgrastim,True,7
+NCT00085462,gp100-Fowlpox Vaccine,True,7
+NCT00085462,Therapeutic Autologous Lymphocytes,True,7
+NCT00085462,Therapeutic Tumor Infiltrating Lymphocytes,True,7
+NCT00085462,Cyclophosphamide,True,7
+NCT00085462,fludarabine phosphate,True,7
+NCT00245089,Dactinomycin,True,3
+NCT00245089,Cyclophosphamide,True,3
+NCT00245089,vincristine sulfate,True,3
+NCT02461121,HLA mismatched stem cell,True,8
+NCT02461121,HLA matched stem cell,True,8
+NCT02461121,Cyclosporin,True,8
+NCT02461121,Mycophenolate mofetil,True,8
+NCT02461121,Cytarabine,True,8
+NCT02461121,Fludarabine,True,8
+NCT02461121,Antithymocyte globulin,True,8
+NCT02461121,Cyclophosphamide,True,8
+NCT00159445,Gemcitabine,True,2
+NCT00159445,Capecitabine,True,2
+NCT00080990,Alvocidib,True,4
+NCT00080990,Fluorouracil,True,4
+NCT00080990,Oxaliplatin,True,4
+NCT00080990,leucovorin calcium,True,4
+NCT00072670,Trabectedin,False,1
+NCT00077025,Gefitinib,True,2
+NCT00077025,Anastrozole,True,2
+NCT00077493,CAT 3888,True,3
+NCT00077493,Moxetumomab pasudotox,True,3
+NCT00077493,Monoclonal antibodies,True,3
+NCT00191477,Gemcitabine,True,3
+NCT00191477,Transurethral Resection of Bladder Tumor,True,3
+NCT00191477,Placebo Control,True,3
+NCT00426101,Dexamethasone,True,7
+NCT00426101,Etoposide,True,7
+NCT00426101,Cyclosporin,True,7
+NCT00426101,Methotrexate,True,7
+NCT00426101,Prednisolone,True,7
+NCT00426101,Intrathecal Chemotherapy,True,7
+NCT00426101,Hematopoietic Cell Transplantation,True,7
+NCT02494596,Capecitabine,True,2
+NCT02494596,Pertuzumab-biosimilar-Biocad,True,2
+NCT00226798,Capecitabine,False,1
+NCT01270906,dovitinib lactate,False,1
+NCT00154349,imatinib mesylate,False,1
+NCT00617968,Docetaxel,False,1
+NCT00069160,Docetaxel,True,3
+NCT00069160,Tariquidar,True,3
+NCT00069160,Technetium Tc-99m Sestamibi,True,3
+NCT00086931,Capecitabine,True,5
+NCT00086931,Oxaliplatin,True,5
+NCT00086931,Conventional Surgery,True,5
+NCT00086931,Chemotherapy,True,5
+NCT00086931,Radiation Therapy,True,5
+NCT00504660,Capecitabine,True,5
+NCT00504660,Celecoxib,True,5
+NCT00504660,Temozolomide,True,5
+NCT00504660,Lomustine,True,5
+NCT00504660,Tioguanine,True,5
+NCT00489983,Pemetrexed,True,2
+NCT00489983,Gemcitabine,True,2
+NCT00061958,Arsenic trioxide,False,1
+NCT00064311,Ravuconazole,False,1
+NCT00319618,Gefitinib,True,2
+NCT00319618,Docetaxel,True,2
+NCT00168727,Ibritumomab tiuxetan,False,1
+NCT00060645,Ridaforolimus,False,1
+NCT00126269,Cisplatin,True,2
+NCT00126269,Gemcitabine,True,2
+NCT00488709,Topotecan,True,3
+NCT00488709,Fludarabine,True,3
+NCT00488709,Cytarabine,True,3
+NCT01085058,Lenograstim,False,1
+NCT00193479,Cyclophosphamide,True,5
+NCT00193479,Mitoxantrone,True,5
+NCT00193479,Vincristine,True,5
+NCT00193479,Prednisone,True,5
+NCT00193479,Rituximab,True,5
+NCT00431561,Trabedersen,True,7
+NCT00431561,Temozolomide,True,7
+NCT00431561,Procarbazine,True,7
+NCT00431561,Lomustine,True,7
+NCT00431561,Vincristine,True,7
+NCT00431561,Drug Delivery System,True,7
+NCT00431561,Intratumoral Route of Administration,True,7
+NCT00060567,Indisulam,True,2
+NCT00060567,Irinotecan,True,2
+NCT00071955,Autologous Immunoglobulin Idiotype-KLH Conjugate Vaccine,True,2
+NCT00071955,Sargramostim,True,2
+NCT00060242,fosbretabulin disodium,False,1
+NCT00122499,Tadalafil,False,1
+NCT00060710,Proapoptotic Sulindac Analog CP-461,False,1
+NCT00334295,Fulvestrant,False,1
+NCT00058006,Celecoxib,True,2
+NCT00058006,Adjuvant Therapy,True,2
+NCT00047242,UCN 01,True,2
+NCT00047242,irinotecan hydrochloride,True,2
+NCT00149019,T-cell Engaging Bispecific Antibody,False,1
+NCT00448643,Carboplatin,True,5
+NCT00448643,Paclitaxel,True,5
+NCT00448643,Cisplatin,True,5
+NCT00448643,Whole-Abdominal Irradiation,True,5
+NCT00448643,High-Dose-Rate Vaginal Brachytherapy,True,5
+NCT00044525,Ortataxel,False,1
+NCT00256230,Disulfiram,False,1
+NCT00023933,Iodine I 131 Monoclonal Antibody CC49-deltaCH2,False,1
+NCT00328549,Pegylated Interferon Alfa,True,2
+NCT00328549,Ribavirin,True,2
+NCT00024310,Folic acid,True,3
+NCT00024310,Lometrexol,True,3
+NCT00024310,Paclitaxel,True,3
+NCT00030069,Calcitriol,True,2
+NCT00030069,Dexamethasone,True,2
+NCT00050843,Thalidomide,False,1
+NCT00041808,MTC DOX,True,2
+NCT00041808,Chemotherapy,True,2
+NCT00403624,Oxaliplatin,False,1
+NCT00586898,Leuprorelin,True,6
+NCT00586898,Goserelin,True,6
+NCT00586898,Ketoconazole,True,6
+NCT00586898,Bicalutamide,True,6
+NCT00586898,Testosterone,True,6
+NCT00586898,Estradiol,True,6
+NCT00038649,imatinib mesylate,False,1
+NCT00014118,Carboplatin,True,4
+NCT00014118,Paclitaxel,True,4
+NCT00014118,Conventional Surgery,True,4
+NCT00014118,Radiation Therapy,True,4
+NCT00027742,Peginterferon alfa-2a,True,2
+NCT00027742,Temozolomide,True,2
+NCT00211198,Denileukin diftitox,False,1
+NCT00014690,Clevidipine,True,2
+NCT00014690,topotecan hydrochloride,True,2
+NCT00022334,Alpha-Fetoprotein,False,1
+NCT00550784,Filgrastim,True,10
+NCT00550784,Cisplatin,True,10
+NCT00550784,Cyclophosphamide,True,10
+NCT00550784,Melphalan,True,10
+NCT00550784,Paclitaxel,True,10
+NCT00550784,topotecan hydrochloride,True,10
+NCT00550784,TdT-Mediated dUTP Nick End Labeling Assay,True,10
+NCT00550784,Gene Expression Analysis,True,10
+NCT00550784,Immunohistochemistry Staining Method,True,10
+NCT00550784,Peripheral Blood Stem Cell Transplantation,True,10
+NCT00006257,Paclitaxel,True,2
+NCT00006257,Semaxanib,True,2
+NCT00006484,Carboplatin,True,3
+NCT00006484,Paclitaxel,True,3
+NCT00006484,Tirapazamine,True,3
+NCT00004208,Antithymocyte Globulin Equine/Cyclosporine Regimen,True,2
+NCT00004208,Cyclosporin,True,2
+NCT00008294,FOLFOX,True,6
+NCT00008294,Dexamethasone,True,6
+NCT00008294,Floxuridine,True,6
+NCT00008294,Fluorouracil,True,6
+NCT00008294,leucovorin calcium,True,6
+NCT00008294,Oxaliplatin,True,6
+NCT00006107,Docetaxel,True,3
+NCT00006107,Surgical Procedure,True,3
+NCT00006107,Radiation Therapy,True,3
+NCT00005841,MART-1 Antigen,True,5
+NCT00005841,gp100 Antigen,True,5
+NCT00005841,Incomplete Freund's adjuvant,True,5
+NCT00005841,Progenipoietin,True,5
+NCT00005841,Tyrosinase Peptide,True,5
+NCT00006122,Cytarabine,True,5
+NCT00006122,Etoposide,True,5
+NCT00006122,Gemtuzumab ozogamicin,True,5
+NCT00006122,Idarubicin,True,5
+NCT00006122,mitoxantrone hydrochloride,True,5
+NCT00006120,Docetaxel,True,2
+NCT00006120,Paclitaxel,True,2
+NCT00015821,Thalidomide,True,2
+NCT00015821,Laboratory Biomarker Analysis,True,2
+NCT00005858,LMB 9,False,1
+NCT01122121,leuprolide acetate,True,3
+NCT01122121,Radiation Therapy,True,3
+NCT01122121,Flutamide,True,3
+NCT01663714,Cyclophosphamides,True,5
+NCT01663714,Vincristine,True,5
+NCT01663714,Prednisone,True,5
+NCT01663714,Tositumomab,True,5
+NCT01663714,Iodine I 131 tositumomab,True,5
+NCT00022932,Iodine I 131 tositumomab,False,1
+NCT01225874,Calaspargase pegol,True,8
+NCT01225874,Cytarabine,True,8
+NCT01225874,daunorubicin hydrochloride,True,8
+NCT01225874,Dexamethasone,True,8
+NCT01225874,Methotrexate,True,8
+NCT01225874,Pegaspargase,True,8
+NCT01225874,Prednisone,True,8
+NCT01225874,vincristine sulfate,True,8
+NCT00004172,Filgrastim,True,7
+NCT00004172,Carboplatin,True,7
+NCT00004172,Cyclophosphamide,True,7
+NCT00004172,Ifosfamide,True,7
+NCT00004172,Thiotepa,True,7
+NCT00004172,Peripheral Blood Stem Cell Transplantation,True,7
+NCT00004172,Radiation Therapy,True,7
+NCT00004173,Oxaliplatin,True,2
+NCT00004173,Paclitaxel,True,2
+NCT00003810,Docetaxel,True,2
+NCT00003810,gemcitabine hydrochloride,True,2
+NCT00563862,Conventional Radiotherapy,True,4
+NCT00563862,Accelerated Radiation Therapy,True,4
+NCT00563862,Cisplatin,True,4
+NCT00563862,Fluorouracil,True,4
+NCT00004158,Melphalan,True,3
+NCT00004158,Peripheral Blood Stem Cell Transplantation,True,3
+NCT00004158,Ho 166 DOTMP,True,3
+NCT00003645,Flutamide,True,2
+NCT00003645,leuprolide acetate,True,2
+NCT00003779,BCG vaccine,False,1
+NCT00003664,Aldesleukin,True,4
+NCT00003664,Interferon alpha-2b,True,4
+NCT00003664,Fluorouracil,True,4
+NCT00003664,gemcitabine hydrochloride,True,4
+NCT00003682,doxorubicin hydrochloride,True,2
+NCT00003682,Methylprednisolone,True,2
+NCT00004202,Carboplatin,True,5
+NCT00004202,Chemotherapy,True,5
+NCT00004202,Efaproxiral,True,5
+NCT00004202,Paclitaxel,True,5
+NCT00004202,Radiation Therapy,True,5
+NCT00003447,gemcitabine hydrochloride,True,2
+NCT00003447,vinorelbine tartrate,True,2
+NCT00003463,Carmustine,True,4
+NCT00003463,irinotecan hydrochloride,True,4
+NCT00003463,Polifeprosan 20,True,4
+NCT00003463,Surgical Procedure,True,4
+NCT00003687,dextromethorphan hydrobromide,True,2
+NCT00003687,morphine sulfate,True,2
+NCT00003239,Interferon alpha-2b,True,3
+NCT00003239,Cytarabine,True,3
+NCT00003239,Omacetaxine mepesuccinate,True,3
+NCT00003210,Edodekin alfa,True,2
+NCT00003210,Laboratory Biomarker Analysis,True,2
+NCT00003193,Amifostine,True,4
+NCT00003193,Paclitaxel,True,4
+NCT00003193,Conventional Surgery,True,4
+NCT00003193,Radiation Therapy,True,4
+NCT00003357,GM2-KLH Vaccine,True,2
+NCT00003357,QS 21,True,2
+NCT00003128,Filgrastim,True,3
+NCT00003128,Ifosfamide,True,3
+NCT00003128,Paclitaxel,True,3
+NCT00004162,Sargramostim,True,4
+NCT00004162,Methotrexate,True,4
+NCT00004162,Pegylated liposomal doxorubicin,True,4
+NCT00004162,vincristine sulfate,True,4
+NCT00001626,Antithymocyte globulin,True,3
+NCT00001626,Cyclophosphamide,True,3
+NCT00001626,Cyclosporin,True,3
+NCT00003261,Methotrexate,True,4
+NCT00003261,Zidovudine,True,4
+NCT00003261,Neoadjuvant Therapy,True,4
+NCT00003261,Radiation Therapy,True,4
+NCT00019214,MART-1 Antigen,True,3
+NCT00019214,Aldesleukin,True,3
+NCT00019214,gp100 Antigen,True,3
+NCT00154726,Paclitaxel,False,1
+NCT00002990,BCG vaccine,False,1
+NCT00003495,Antineoplaston-A10,True,2
+NCT00003495,Antineoplaston-AS2-1,True,2
+NCT00001449,Gemcitabine,True,3
+NCT00001449,Floxuridine,True,3
+NCT00001449,Folinic acid,True,3
+NCT00002865,Filgrastim,True,14
+NCT00002865,Cyclophosphamide,True,14
+NCT00002865,Cytarabine,True,14
+NCT00002865,Dexamethasone,True,14
+NCT00002865,doxorubicin hydrochloride,True,14
+NCT00002865,Etoposide,True,14
+NCT00002865,Ifosfamide,True,14
+NCT00002865,leucovorin calcium,True,14
+NCT00002865,Mesna,True,14
+NCT00002865,Methotrexate,True,14
+NCT00002865,Hydrocortisone,True,14
+NCT00002865,vincristine sulfate,True,14
+NCT00002865,Low-LET Cobalt-60 Gamma Ray Therapy,True,14
+NCT00002865,Low-LET Photon Therapy,True,14
+NCT00869284,Cyclophosphamide,True,10
+NCT00869284,Epirubicin,True,10
+NCT00869284,Vindesine,True,10
+NCT00869284,Prednisone,True,10
+NCT00869284,Mitoxantrone,True,10
+NCT00869284,Cytarabine,True,10
+NCT00869284,Total-Body Irradiation,True,10
+NCT00869284,Carmustine,True,10
+NCT00869284,Etoposide,True,10
+NCT00869284,Peripheral Blood Stem Cell,True,10
+NCT00002551,Fluorouracil,True,4
+NCT00002551,leucovorin calcium,True,4
+NCT00002551,levamisole hydrochloride,True,4
+NCT00002551,Radiation Therapy,True,4
+NCT00001398,Ancestim,False,1
+NCT00003364,Cisplatin,True,6
+NCT00003364,Cyclophosphamide,True,6
+NCT00003364,doxorubicin hydrochloride,True,6
+NCT00003364,Etoposide,True,6
+NCT00003364,vincristine sulfate,True,6
+NCT00003364,Radiation Therapy,True,6
+NCT00002844,Cyclophosphamide,True,5
+NCT00002844,Allogeneic Bone Marrow Transplantation,True,5
+NCT00002844,Autologous Bone Marrow Transplantation,True,5
+NCT00002844,Total-Body Irradiation,True,5
+NCT00002844,Bone Marrow Transplantation,True,5
+NCT00002456,Cyclosporin,True,3
+NCT00002456,Methotrexate,True,3
+NCT00002456,Allogeneic Bone Marrow Transplantation,True,3
+NCT00000660,Etoposide,False,1
+NCT00002003,mitoxantrone hydrochloride,True,2
+NCT00002003,Etoposide,True,2
+NCT00041691,Labetuzumab Y-90,False,1
+NCT00365755,Carboplatin,True,8
+NCT00365755,Cisplatin,True,8
+NCT00365755,Cyclophosphamide,True,8
+NCT00365755,Etoposide,True,8
+NCT00365755,Melphalan,True,8
+NCT00365755,vincristine sulfate,True,8
+NCT00365755,Autologous Bone Marrow Transplantation,True,8
+NCT00365755,Conventional Surgery,True,8
+NCT01410708,Dasatinib,False,1

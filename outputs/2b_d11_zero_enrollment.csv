@@ -1,0 +1,3 @@
+flag,n_resolved,n_positive,n_negative,n_censored,success_rate_%,ci_low_%,ci_high_%,vs_overall_pp
+Normal Enrollment,560,432,128,375,77.1,73.5,80.4,4.1
+Zero/Missing Enroll,60,21,39,5,35.0,24.2,47.6,-38.1

@@ -1,0 +1,81 @@
+indication_group,phase_clean,n_resolved,n_positive,n_negative,success_rate_%,ci_low_%,ci_high_%,vs_overall_pp,reliable
+AML,Phase 1,7,3,4,42.9,,,-30.2,⚠ n=7
+AML,Phase 1/2,2,0,2,0.0,,,-73.1,⚠ n=2
+AML,Phase 2,8,6,2,75.0,,,1.9,⚠ n=8
+AML,Phase 2/3,1,0,1,0.0,,,-73.1,⚠ n=1
+AML,Phase 3,1,1,0,100.0,,,26.9,⚠ n=1
+AML,Phase 4,1,1,0,100.0,,,26.9,⚠ n=1
+Breast Cancer,Phase 1,13,11,2,84.6,57.8,95.7,11.6,✓
+Breast Cancer,Phase 1/2,9,6,3,66.7,,,-6.4,⚠ n=9
+Breast Cancer,Phase 2,25,20,5,80.0,60.9,91.1,6.9,✓
+Breast Cancer,Phase 2/3,1,0,1,0.0,,,-73.1,⚠ n=1
+Breast Cancer,Phase 3,2,2,0,100.0,,,26.9,⚠ n=2
+Breast Cancer,Phase 4,1,1,0,100.0,,,26.9,⚠ n=1
+Breast Cancer,Unknown,4,2,2,50.0,,,-23.1,⚠ n=4
+Colorectal Cancer,Phase 1,2,2,0,100.0,,,26.9,⚠ n=2
+Colorectal Cancer,Phase 1/2,3,3,0,100.0,,,26.9,⚠ n=3
+Colorectal Cancer,Phase 2,5,4,1,80.0,,,6.9,⚠ n=5
+Colorectal Cancer,Phase 3,4,4,0,100.0,,,26.9,⚠ n=4
+Colorectal Cancer,Phase 4,1,1,0,100.0,,,26.9,⚠ n=1
+Gastric Cancer,Phase 1,2,2,0,100.0,,,26.9,⚠ n=2
+Gastric Cancer,Phase 1/2,1,0,1,0.0,,,-73.1,⚠ n=1
+Gastric Cancer,Phase 2,4,3,1,75.0,,,1.9,⚠ n=4
+Gastric Cancer,Phase 2/3,1,1,0,100.0,,,26.9,⚠ n=1
+Gastric Cancer,Phase 4,1,0,1,0.0,,,-73.1,⚠ n=1
+Gastric Cancer,Unknown,2,1,1,50.0,,,-23.1,⚠ n=2
+Head & Neck Cancer,Phase 1,3,2,1,66.7,,,-6.4,⚠ n=3
+Head & Neck Cancer,Phase 1/2,4,3,1,75.0,,,1.9,⚠ n=4
+Head & Neck Cancer,Phase 2,6,3,3,50.0,,,-23.1,⚠ n=6
+Head & Neck Cancer,Phase 3,4,3,1,75.0,,,1.9,⚠ n=4
+Hematologic Malignancies,Phase 1,8,6,2,75.0,,,1.9,⚠ n=8
+Hematologic Malignancies,Phase 1/2,3,0,3,0.0,,,-73.1,⚠ n=3
+Hematologic Malignancies,Phase 2,9,7,2,77.8,,,4.7,⚠ n=9
+Hematologic Malignancies,Phase 3,3,3,0,100.0,,,26.9,⚠ n=3
+Leukemia,Phase 1,8,6,2,75.0,,,1.9,⚠ n=8
+Leukemia,Phase 1/2,2,2,0,100.0,,,26.9,⚠ n=2
+Leukemia,Phase 2,7,4,3,57.1,,,-15.9,⚠ n=7
+Leukemia,Phase 2/3,1,1,0,100.0,,,26.9,⚠ n=1
+Leukemia,Phase 3,3,3,0,100.0,,,26.9,⚠ n=3
+Leukemia,Unknown,3,3,0,100.0,,,26.9,⚠ n=3
+Lymphoma,Phase 1,3,3,0,100.0,,,26.9,⚠ n=3
+Lymphoma,Phase 1/2,2,2,0,100.0,,,26.9,⚠ n=2
+Lymphoma,Phase 2,15,15,0,100.0,79.6,100.0,26.9,✓
+Lymphoma,Phase 3,1,1,0,100.0,,,26.9,⚠ n=1
+Lymphoma,Phase 4,1,1,0,100.0,,,26.9,⚠ n=1
+Multiple Myeloma,Phase 1,7,6,1,85.7,,,12.6,⚠ n=7
+Multiple Myeloma,Phase 1/2,5,2,3,40.0,,,-33.1,⚠ n=5
+Multiple Myeloma,Phase 2,14,5,9,35.7,16.3,61.2,-37.4,✓
+Multiple Myeloma,Phase 2/3,1,1,0,100.0,,,26.9,⚠ n=1
+NSCLC,Phase 1,16,8,8,50.0,28.0,72.0,-23.1,✓
+NSCLC,Phase 1/2,6,5,1,83.3,,,10.3,⚠ n=6
+NSCLC,Phase 2,20,13,7,65.0,43.3,81.9,-8.1,✓
+NSCLC,Phase 3,5,3,2,60.0,,,-13.1,⚠ n=5
+NSCLC,Phase 4,1,1,0,100.0,,,26.9,⚠ n=1
+NSCLC,Unknown,1,1,0,100.0,,,26.9,⚠ n=1
+Other,Phase 1,59,47,12,79.7,67.7,88.0,6.6,✓
+Other,Phase 1/2,32,24,8,75.0,57.9,86.7,1.9,✓
+Other,Phase 2,88,61,27,69.3,59.0,78.0,-3.7,✓
+Other,Phase 2/3,2,2,0,100.0,,,26.9,⚠ n=2
+Other,Phase 3,39,32,7,82.1,67.3,91.0,9.0,✓
+Other,Phase 4,8,8,0,100.0,,,26.9,⚠ n=8
+Other,Unknown,13,11,2,84.6,57.8,95.7,11.6,✓
+Ovarian Cancer,Phase 1,11,7,4,63.6,35.4,84.8,-9.4,✓
+Ovarian Cancer,Phase 1/2,2,1,1,50.0,,,-23.1,⚠ n=2
+Ovarian Cancer,Phase 2,11,8,3,72.7,43.4,90.3,-0.3,✓
+Ovarian Cancer,Phase 2/3,2,2,0,100.0,,,26.9,⚠ n=2
+Ovarian Cancer,Phase 4,1,1,0,100.0,,,26.9,⚠ n=1
+Ovarian Cancer,Unknown,1,0,1,0.0,,,-73.1,⚠ n=1
+Pancreatic Cancer,Phase 1,16,8,8,50.0,28.0,72.0,-23.1,✓
+Pancreatic Cancer,Phase 1/2,7,5,2,71.4,,,-1.6,⚠ n=7
+Pancreatic Cancer,Phase 2,10,8,2,80.0,49.0,94.3,6.9,✓
+Pancreatic Cancer,Phase 3,1,0,1,0.0,,,-73.1,⚠ n=1
+Pancreatic Cancer,Phase 4,1,0,1,0.0,,,-73.1,⚠ n=1
+Pancreatic Cancer,Unknown,1,1,0,100.0,,,26.9,⚠ n=1
+Prostate Cancer,Phase 1,2,0,2,0.0,,,-73.1,⚠ n=2
+Prostate Cancer,Phase 2,6,4,2,66.7,,,-6.4,⚠ n=6
+Prostate Cancer,Phase 3,7,4,3,57.1,,,-15.9,⚠ n=7
+Prostate Cancer,Unknown,1,1,0,100.0,,,26.9,⚠ n=1
+Solid Tumors (NOS),Phase 1,30,28,2,93.3,78.7,98.2,20.3,✓
+Solid Tumors (NOS),Phase 1/2,2,1,1,50.0,,,-23.1,⚠ n=2
+Solid Tumors (NOS),Phase 2,3,1,2,33.3,,,-39.7,⚠ n=3
+Solid Tumors (NOS),Phase 3,1,1,0,100.0,,,26.9,⚠ n=1

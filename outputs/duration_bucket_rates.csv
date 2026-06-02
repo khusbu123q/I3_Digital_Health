@@ -1,0 +1,5 @@
+duration_bucket,n_resolved,n_positive,success_rate_%,ci_low_%,ci_high_%
+1–2 Years,96,59,61.5,51.5,70.6
+2–3 Years,104,68,65.4,55.8,73.8
+< 1 Year,47,26,55.3,41.2,68.6
+> 3 Years,335,275,82.1,77.6,85.8

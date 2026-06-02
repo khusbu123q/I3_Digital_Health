@@ -1,0 +1,5 @@
+duration_bucket,n_resolved,n_positive,n_negative,success_rate_%,ci_low_%,ci_high_%,vs_overall_pp,reliable
+<1yr,47,26,21,55.3,41.2,68.6,-17.7,✓
+1-2yr,96,59,37,61.5,51.5,70.6,-11.6,✓
+2-3yr,104,68,36,65.4,55.8,73.8,-7.7,✓
+>3yr,335,275,60,82.1,77.6,85.8,9.0,✓
