@@ -1,0 +1,5 @@
+scenario,assumption,n_pos,n_res,success_rate_%,ci_low_%,ci_high_%
+S1 — Baseline,"Suspended=Negative,  Unknown=Excluded",453,620,73.06,69.44,76.41
+S2 — Suspended as Censored,"Suspended=Censored,  Unknown=Excluded",453,616,73.54,69.92,76.87
+S3 — Unknown as Negative (pessimistic),"Suspended=Negative,  Unknown=Negative",453,741,61.13,57.58,64.58
+S4 — Unknown as Positive (optimistic),"Suspended=Negative,  Unknown=Positive",574,741,77.46,74.32,80.33

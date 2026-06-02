@@ -1,0 +1,13 @@
+dim,n_strata,range_pp,chi2_p,significant,best,worst
+D5  IndicationxPhase,16,64.3,,,LymphomaxPh2 (100%),MMxPh2 (35.7%)
+D1  Indication,15,48.1,0.0014,True,Lymphoma (100.0%),Mult. Myeloma (51.9%)
+D4  Target Class,19,42.1,0.2734,False,HER2 (95.0%),Proteasome (52.9%)
+D11 Zero Enrollment,2,42.1,0.0,True,Normal (77.1%),Zero/Missing (35.0%)
+D7  Enrollment Bucket,5,32.8,0.0,True,51-100 pts (90.8%),1-20 pts (58.0%)
+D8  Trial Era,4,27.1,0.0001,True,Pre-2010 (79.1%),2020+ (52.0%)*
+D12 Duration Bucket,4,26.8,1e-06,True,>3yr (82.1%),<1yr (55.3%)
+D2  Phase,6,20.0,0.3911,False,Phase 4 (87.5%),Phase 1/2 (67.5%)
+D3  Technology,4,14.8,0.0872,False,Protein Th. (87.5%),mAb (72.7%)
+D9  Drug Count,4,3.6,0.7829,False,>3 drugs (75.0%),2 drugs (71.4%)
+D10 Prec. vs Cyto.,3,3.3,0.7632,False,Precision (73.6%),Cytotoxic (70.4%)
+D6  Therapy Type,2,1.6,0.7495,False,Monotherapy (74.1%),Combination (72.5%)

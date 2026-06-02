@@ -1,0 +1,7 @@
+comparison,rate_A,n_A,rate_B,n_B,delta_pp,cohens_h,effect_size,fisher_p
+Lymphoma vs Multiple Myeloma,100.0,22,51.9,27,48.1,1.534,Large,0.000145
+Lymphoma vs NSCLC,100.0,22,63.3,49,36.7,1.302,Large,0.000696
+Colorectal Cancer vs AML,93.3,15,55.0,20,38.3,0.948,Large,0.021952
+HER2 vs Proteasome,95.0,20,52.9,17,42.1,1.061,Large,0.005454
+HER2 vs PD-1,95.0,20,66.7,24,28.3,0.78,Medium,0.027095
+TOP2 vs RNR,84.8,33,61.9,42,22.9,0.531,Medium,0.038406

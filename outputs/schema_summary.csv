@@ -1,0 +1,33 @@
+column,table,dtype,description
+trial_id,trials_clean,int,Unique datalake identifier
+nct_id,trials_clean,str,ClinicalTrials.gov identifier (primary key)
+brief_title,trials_clean,str,Short study title
+official_title,trials_clean,str,Full official study title
+phase,trials_clean,str,Raw phase value (e.g. PHASE2)
+phase_clean,trials_clean,str,Canonical phase label (e.g. Phase 2)
+phase_int,trials_clean,float,Numeric ordinal: 1.0/1.5/2.0/2.5/3.0/4.0
+recruitment_status,trials_clean,str,Raw recruitment status
+status_clean,trials_clean,str,"Canonical status (e.g. Completed, Terminated)"
+outcome,trials_clean,str,Tiered proxy: Positive/Negative/Censored/Unknown
+outcome_binary,trials_clean,float,"Binary: 1=Completed, 0=Negative, NaN=Censored"
+start_date_dt,trials_clean,date,Parsed start date
+completion_date_dt,trials_clean,date,Parsed completion date
+primary_completion_date_dt,trials_clean,date,Parsed primary completion date
+start_year,trials_clean,int,Derived: year extracted from start_date
+trial_duration_days,trials_clean,int,Derived: completion_date − start_date in days
+duration_bucket,trials_clean,category,Derived: <1yr / 1-2yr / 2-3yr / >3yr
+enrollment_n,trials_clean,int,Enrollment count cast to integer
+enrollment_type,trials_clean,str,ACTUAL or ESTIMATED
+n_drugs,trials_clean,int,Derived: number of drugs in this trial
+therapy_type,trials_clean,str,Derived: Monotherapy or Combination
+is_combination,trials_clean,bool,Derived: True if ≥2 drugs
+indication_group,trials_clean,str,Derived: canonical oncology indication group
+tech_group,trials_clean,str,Derived: canonical technology class
+flag_no_dates,trials_clean,bool,Flag: all date fields are null
+flag_zero_enroll,trials_clean,bool,Flag: enrollment = 0 or missing
+flag_no_phase,trials_clean,bool,Flag: phase is null
+indication_raw,trial_indications,str,Raw indication string from source
+indication_group (bridge),trial_indications,str,Canonical indication group
+drug_name,trial_drugs,str,Individual drug name
+n_drugs_in_trial,trial_drugs,int,Total drugs in the same trial
+target,trial_targets,str,Target abbreviation (encoding-fixed)

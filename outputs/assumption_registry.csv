@@ -1,0 +1,8 @@
+id,applies_to,decision,rationale,sensitivity_impact
+A1,Suspended,Treated as Negative (outcome_binary=0),Most suspended oncology trials do not resume to completion.,Low: +0.47pp if reclassified as Censored
+A2,Unknown,Excluded from denominator (NaN),Cannot distinguish Unknown=failed vs Unknown=stale registry entry.,HIGH: -11.9pp (pessimistic) / +4.4pp (optimistic). Spread = 16.3pp
+A3,Not Yet Recruiting,Censored — excluded,No outcome event has occurred.,Negligible
+A4,Enrolling By Invitation,Grouped with Recruiting (Censored),Operationally identical to Recruiting.,Negligible (n=2)
+A5,EARLY_PHASE1,Grouped with Phase 1,Sub-category per FDA definition.,Negligible
+A6,Denominator,Resolved trials only (Positive + Negative),Right-censoring mitigation. 380 trials excluded.,Denominator=620 not 1000. Censored%=25.9%
+A7,Success definition,Trial Completion — Stage 2 of 6,Only available proxy — no endpoint result or approval data.,Major: 73.1% completion ≠ ~5–10% real approval rate
